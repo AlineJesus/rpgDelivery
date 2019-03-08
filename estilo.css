@@ -1,0 +1,5117 @@
+/*H1,H2,H3,H4,H5,H6*/
+/*H1,H2,H3,H4,H5,H6*/
+/*SPAN*/
+/*SPAN*/
+.mesaCriarPerfil{
+	position: relative;
+	top: -29px;
+}.mesaCriarPerfil2{
+	position: relative;
+	top: -48px;
+}
+.BolaUsuario04 {
+    /* text-align: center; */
+    position: relative;
+    z-index: 7;
+    /* top: 39px; */
+    /* left: 22px; */
+    width: 50px;
+    /* margin: auto; */
+    float: left;
+    margin-left: -14px;
+    margin-right: 62px;
+}
+.BolaUsuario05 {
+    /* text-align: center; */
+    position: relative;
+    z-index: 7;
+    /* top: 39px; */
+    /* left: 22px; */
+  width: 50px;
+    /* margin: auto; */
+    float: left;
+   margin-left: 31px;
+    margin-right: -13px;
+}.BolaUsuario06 {
+  
+       position: relative;
+    z-index: 7;
+    top: -76px;
+    /* left: 22px; */
+    width: 50px;
+    /* margin: auto; */
+    float: left;
+    margin-left: 17px;
+    margin-right: -15px;
+}.BolaUsuario07 {
+      /* text-align: center; */
+    position: relative;
+    z-index: 7;
+    top: -63px;
+    /* left: 22px; */
+    width: 50px;
+    /* margin: auto; */
+    float: left;
+    margin-left: 47px;
+    margin-right: -13px;
+}.BolaUsuario08 {
+       /* text-align: center; */
+    position: relative;
+    z-index: 7;
+    top: -74px;
+    /* left: 22px; */
+    width: 50px;
+    /* margin: auto; */
+    float: left;
+    margin-left: 49px;
+    margin-right: -13px;
+}
+.m01 {
+    transform: rotate(90deg);
+    transform-origin: -19px 46px;
+    background: #805b86;
+	border-bottom: 1px solid;
+}
+.BolaUsuario {
+      /* text-align: center; */
+    position: relative;
+    z-index: 7;
+    /* top: 39px; */
+    /* left: 22px; */
+    width: 50px;
+    /* margin: auto; */
+    float: left;
+    margin-left: 16px;
+    margin-right: 19px;
+}
+.statusCardEvento{
+       padding-left: 13px;
+    position: relative;
+    top: -2px;
+
+}
+.ievent{
+	    font-size: 29px!important;
+    padding: 5px 0px;
+    color: #545454;
+}
+.aEvent{
+	TEXT-ALIGN: CENTER;
+    font-size: 20px;
+    border-left: 5px solid #e2e2e2;
+    border-right: 5px solid #e2e2e2;
+    padding: 26px 1px;
+}
+.bEvent{
+	TEXT-ALIGN: CENTER;
+    font-size: 20px;
+   
+    padding: 26px 1px;
+}
+.inicioEvento{
+	    color: #106089;
+    font-size: 14px;
+    font-family: 'gilroyextrabold';
+    text-align: center;
+}
+.top2{
+	margin-top: 2%;
+}
+.mesaDeJogo input { visibility: hidden; }
+.positionSessaoPaga{  
+  MAX-WIDTH: 94PX;
+    left: 6px;
+    top: 1px;
+	background: #47b4b1;
+    
+    border-radius: 9px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 5px;
+    font-size: 10px;
+    margin-bottom: -17px;
+    margin-top: 4px;
+    position: relative;
+    
+    z-index: 5;
+    
+}
+.cEvent {
+    TEXT-ALIGN: CENTER;
+    font-size: 20px;
+    padding: 14px 1px;
+}.dEvent {
+        TEXT-ALIGN: CENTER;
+    font-size: 20px;
+    border-left: 5px solid #e2e2e2;
+    border-right: 5px solid #e2e2e2;
+    padding: 14px 1px;
+}
+.localEvento2{
+	
+    width: 32%;
+    float: left;
+
+}
+.formpesquisarEvento{
+	
+    background: #d2d2d2;
+    padding: 0px;
+    margin: 0px; 
+	margin-bottom: 19px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+.mesaDeJogo {
+         position: relative;
+    float: left;
+    width: 264px;
+    height: 250px;
+    background: url(../imagens/mesa.png) no-repeat;
+    background-size: 254px 195px
+}
+#eventos {
+   
+}
+.topoEvento {
+       position: relative;
+    float: left;
+    width: 100%;
+    height: 165px;
+    background: url(../imagens/backEvento.png) no-repeat center center;
+    text-align: center;
+padding-top: 29px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.topoCriarEvento {
+       position: relative;
+    float: left;
+    width: 100%;
+    height: 165px;
+    background: url(../imagens/back_criarMesa.png) no-repeat center center;
+    text-align: center;
+padding-top: 29px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.mesaDeJogo label {
+  position: absolute;
+    display: block;
+    width: 90px;
+    height: 100px;
+    left: 50%;
+    top: 50%;
+    margin-left: -42px;
+    margin-top: -46px;
+    background: url(http://i.stack.imgur.com/27Y0g.png) no-repeat center top;
+}
+
+.mesaDeJogo input:checked + label {
+  background:url('http://i.stack.imgur.com/aHDoy.png') no-repeat center top;
+}
+
+.mesaDeJogo span {
+  position:absolute; display:block; left:50%; top:50%; transform:translate(-50%,-50%);
+  font:bold 15px Arial, Helvetica, sans-serif;
+}
+.z3{
+	z-index: 3!important;
+}
+.d1 {
+    position: relative;
+    left: 22px;
+    top: -15px;
+    transform: rotate( -42deg) translateY(2px);
+    z-index: 1;
+}
+.d2 {
+	position: relative;
+    left: -2px;
+    top: -8px;
+    transform: rotate( 2deg) translateY(3px);
+    z-index: 1;
+}.d3 {
+    position: relative;
+    left: -26px;
+    top: -15px;
+    transform: rotate( 45deg) translateY(3px);
+    z-index: 1;
+}
+.d4 {
+    position: relative;
+    left: 36px;
+    top: -42px;
+    transform: rotate( -90deg) translateY(2px);
+    z-index: 1;
+}
+.d5{
+	position: relative;
+      left: -35px;
+    top: -40px;
+
+    transform: rotate( 90deg) translateY(2px);
+    z-index: 1;
+}
+.d6{
+	    position: relative;
+       left: 24px;
+    top: -66px;
+    transform: rotate( 226deg) translateY(2px);
+    z-index: 1;
+}
+.d7{
+	    position: relative;
+    left: -1px;
+    top: -74px;
+    transform: rotate( 179deg) translateY(2px);
+    z-index: 1;
+}
+.d8{
+	    position: relative;
+        left: -23px;
+    top: -70px;
+    transform: rotate( 133deg) translateY(2px);
+    z-index: 1;
+}
+
+
+.imgCriarMesaN{
+	    position: relative;
+    left: -39px;
+    top: 24px;
+    width: 104px;
+}
+.ml1 { transform:translateY(-50px) }    
+.ml2 { transform:rotate( 40deg) translateY(-50px) }
+.ml3 { transform:rotate(100deg) translateY(-50px) }
+.ml4 { transform:rotate(160deg) translateY(-50px) }
+.ml5 { transform:rotate(220deg) translateY(-50px) }
+.ml6 { transform:rotate(280deg) translateY(-50px) }
+.ml7 { transform:rotate(340deg) translateY(-50px) }
+.ml8 { transform:rotate(400deg) translateY(-50px) }
+
+
+
+/*UL*/
+.classdatapicker{
+	 margin: auto;
+    max-width: 367px;
+    margin-bottom: 3px;
+}
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 40%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+.ui-timepicker-div .ui_tpicker_unit_hide{ display: none; }
+
+.ui-timepicker-div .ui_tpicker_time .ui_tpicker_time_input { background: none; color: inherit; border: none; outline: none; border-bottom: solid 1px #555; width: 95%; }
+.ui-timepicker-div .ui_tpicker_time .ui_tpicker_time_input:focus { border-bottom-color: #aaa; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 40% 10px 10px; }
+
+/* Shortened version style */
+.ui-timepicker-div.ui-timepicker-oneLine { padding-right: 2px; }
+.ui-timepicker-div.ui-timepicker-oneLine .ui_tpicker_time, 
+.ui-timepicker-div.ui-timepicker-oneLine dt { display: none; }
+.ui-timepicker-div.ui-timepicker-oneLine .ui_tpicker_time_label { display: block; padding-top: 2px; }
+.ui-timepicker-div.ui-timepicker-oneLine dl { text-align: right; }
+.ui-timepicker-div.ui-timepicker-oneLine dl dd, 
+.ui-timepicker-div.ui-timepicker-oneLine dl dd > div { display:inline-block; margin:0; }
+.ui-timepicker-div.ui-timepicker-oneLine dl dd.ui_tpicker_minute:before,
+.ui-timepicker-div.ui-timepicker-oneLine dl dd.ui_tpicker_second:before { content:':'; display:inline-block; }
+.ui-timepicker-div.ui-timepicker-oneLine dl dd.ui_tpicker_millisec:before,
+.ui-timepicker-div.ui-timepicker-oneLine dl dd.ui_tpicker_microsec:before { content:'.'; display:inline-block; }
+.ui-timepicker-div.ui-timepicker-oneLine .ui_tpicker_unit_hide,
+.ui-timepicker-div.ui-timepicker-oneLine .ui_tpicker_unit_hide:before{ display: none; }
+ul {
+  list-style: none;
+}
+.header .menuJornal{
+	border-bottom-right-radius: 10px;
+}
+.selecioneData{
+	text-align: center;
+	padding: 51px 0px 19px; 
+}
+body, p, H1,H2,H3,H4,H5,H6{
+font-family: 'gilroylight', sans-serif !important;
+}
+#sessaoDaMesa{
+	display: block;
+}
+#sessaConfirmarJogo, #btn2, #novasessao, #problema{
+	display: none;
+}
+			
+@each $position in $positions {
+  .position-#{$position} { position: $position !important; }
+}
+
+.secao01{
+margin-bottom: 195px;
+    margin-top: 163px;/*aline*/
+    padding-left: 81px;/*aline*/
+}
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: $zindex-fixed;
+}
+
+.fixed-bottom {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: $zindex-fixed;
+}
+
+.sticky-top {
+  @supports (position: sticky) {
+    position: sticky;
+    top: 0;
+    z-index: $zindex-sticky;
+  }
+}
+
+/*UL*/
+/*Section*/
+section {
+
+}
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+.cadastro011 {
+    background: #504f67;
+    min-height: 285px;
+    padding: 97px 6px 440px;
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+}
+.botaofecharC {
+    float: right;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    background: #e0e0e0;
+    padding: 0px 8px;
+    border-radius: 50%;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 9;
+}#cadastre-sediv{
+	display: none;
+}
+.div_cadastro2 {
+    display: none;
+    width: 100%;
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    background: #00000096;
+    min-height: 100%;
+    height: 3000px;
+}
+.cadastro01{
+	background: #504f67;
+    min-height: 285px;
+    padding: 97px 6px 144px;
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+}
+.divEsqueceuSenha {
+    min-height: 300px;
+    max-width: 440px;
+    margin: auto;
+    top: 95px;
+    position: relative;
+    background: #ffffff;
+    padding: 0px 5px;
+    border-radius: 7px;
+}
+.cadatrarUsuario{
+	    text-align: left;
+    border-bottom: 1px solid #d0d0d0;
+    max-width: 220px;
+    margin: auto;
+    margin-bottom: 19px;
+}
+.cadastro02{
+	   
+	    background: #fff;
+      padding: 28px 2px;
+    text-align: center;
+    margin-top: -28px;
+	 padding-bottom: 72px;
+}
+.divInternaLogin{
+       min-height: 300px;
+    max-width: 600px;
+    margin: auto;
+    top: 95px;
+    position: relative;
+    background: #ffffff;
+    padding: 0px 5px;
+    border-radius: 7px;
+}
+.divInternaJornal{    min-height: 438px;
+max-width: 600px;margin: auto;top: 97px;position: relative;background: #ffffff;padding: 16px 0px;border-radius: 7px;
+}
+.divInternaAnexos{    min-height: 489px;
+max-width: 600px;margin: auto;top: 97px;position: relative;background: #ffffff;padding: 16px 0px;border-radius: 7px;
+}
+.divInternaCadastro{      min-height: 344px;
+    max-width: 731px;
+    margin: auto;
+    top: 97px;
+    position: relative;
+    border-radius: 7px;
+}
+.botaofecharLogin {
+    float: right;
+    position: relative;
+    top: -10px;
+    left: 17px;
+    background: #e0e0e0;
+    padding: 0px 8px;
+    border-radius: 50%;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 11px;
+}
+.tblog{
+	font-family: 'gilroyextrabold'!important;
+    color: #005d7b;
+    font-size: 18px;
+	    padding: 10px 0px;
+}
+.lblog{
+	
+    border-top: 1px solid #eeeeee;
+    color: #000;
+    padding: 13px 0px;
+
+}
+.sidebarBlog{
+	
+   border: 16px solid #eeeeee;
+    max-width: 210px;
+    float: right;
+    width: 100%;
+    text-align: center;
+    border-radius: 4px;
+   
+
+}
+.iconHBlog{
+	
+    position: relative;
+    top: -3px;
+    padding-right: 6px;
+
+}
+.icon {
+  padding: 9px;
+    background: #e5e5e5;
+    color: #000;
+    min-width: 36px;
+    text-align: center;
+    height: 33px;
+}
+.localizarmesa{
+	padding: 8px 30px;
+    background: none;
+    color: #317c9e;
+    border: 1px solid;
+	    border-radius: 4px;
+
+}
+.imgvagas{
+	
+    position: relative;
+    top: -3px;
+
+}
+.descricaoPostagem{
+	
+    line-height: 14px;
+    color: #767676;
+
+}
+.tituloPublicacoes{
+	
+    font-family: 'gilroyextrabold'!important;
+    font-size: 18px;
+    margin-top: 7px;
+
+}
+.hQuemSomos{
+font-weight: bold;    text-align: center;    font-size: 20px; font-family: 'gilroyextrabold'!important;
+}
+.bot5 {
+    margin-bottom: 5%!important;
+}
+@font-face {
+    font-family: 'gilroyextrabold';
+    src: url('../fonts/gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/gilroy-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.btnCriarConta{
+	    text-decoration: none;
+    background: none;
+    border: 1px solid #fff;
+    margin-top: 15px;
+    color: #fff;
+    font-family: 'gilroylight';
+    font-size: 14px;
+    padding: 5px 54px;
+    border-radius: 5px;
+
+}
+
+@font-face {
+    font-family: 'gilroylight';
+    src: url('../fonts/gilroy-light-webfont.woff2') format('woff2'),
+         url('../fonts/gilroy-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.qtdJogadores{
+	
+    color: #106089;
+    text-align: right;
+    float: right;
+    position: relative;
+    top: 5px;
+
+}.convideQuantos{
+	
+      color: #106089;
+    /* text-align: left; */
+    /* float: left; */
+    /* position: relative; */
+    /* top: 5px; */
+    width: 100%;
+
+}.buscarJog{
+	
+        float: left;
+    color: #868686;
+
+    
+    
+
+}
+.mesafotoCriar {
+    position: relative;
+    margin-top: -488px;
+    z-index: 1;
+    width: 183px;
+    left: 11px;
+}
+.divAmigos{
+	border: 1px solid #cacaca;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 4px;
+
+}
+.width100{
+	width: 100%;
+}
+.amigosPesquisa{
+	text-align: center;
+    width: 56px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container1030{
+	max-width: 1030px;    margin: auto;
+}
+.tituloCriarMesa{
+	color: #106089;    font-size: 26px;
+	 font-family: 'gilroyextrabold';
+}.tituloCriarMesaSessao{
+	color: #106089;    font-size: 20px;
+	 font-family: 'gilroyextrabold';
+}
+.contadorCriarMesa{
+	
+    max-width: 535px;
+    margin: auto;
+    float: none!important;
+}.divFormCriarMesa{
+	
+    max-width: 535px;
+    margin: auto;
+    float: none!important;
+}
+.bola{
+	    margin: 0px 8px 2px;
+    padding: 6px 16px;
+    background: #fff;
+    width: 45px;
+    border-radius: 50%;
+    color: #afafaf;
+    float: left;
+    font-size: 22px;    text-align: center;
+}
+.top15s {
+    margin-top: 15%;
+}
+.btnAvancar{
+	
+    padding: 6px 31px;
+    background: #106089;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    float: right;
+    margin: 12px 0px 25px;
+
+}.btnVoltar{
+	
+    padding: 6px 31px;
+    background: #d6d8db;
+    border: none;
+    color: #000;
+    border-radius: 4px;
+    float: left;
+    margin: 12px 0px 25px;
+
+}
+.timg{
+	
+    width: 18px;
+    position: relative;
+       top: -3px;
+
+}
+.sair{
+	color: #106089;
+    text-align: center;
+    border-bottom: none;
+    padding-bottom: 0px;
+    padding-top: 6px;
+}
+.btnAlterarFoto{
+	
+    background: #504f67;
+    border: none;
+    color: #fff;
+    padding: 5px 34px;
+    border-radius: 3px;
+	font-family: 'gilroylight';
+
+}.btnRemover{
+	font-family: 'gilroylight';
+    background: #aaaaaa;
+    border: none;
+    color: #efefef;
+    padding: 5px 36px;
+    border-radius: 3px;
+
+}
+.dadosEditarPerfil {
+    float: left;
+    max-width: 430px;
+    width: 100%;
+    padding-left: 14px;
+}
+.creditosPerfil{
+	
+   
+    border: 1px solid;
+    padding: 5px 12px;
+    border-radius: 21px;
+    color: #7d7d7d;
+    text-align: center;
+    float: right;
+    margin-right: 35px;
+    position: relative;
+    top: 100px;
+
+
+}
+.idioma{
+	    max-width: 123px;
+    float: left;
+    padding-top: 6px;
+}
+.divFotoMenu{
+	width: 117px;
+	float: left;
+	    padding-left: 26px;
+}
+.iconesMenuTopo{
+	    max-width: 216px;
+    float: left;
+	padding-top: 7px;
+}
+.btnCriarPub {
+    background: #317c9e;
+    border: none;
+    color: #fff;
+    padding: 5px 33px;
+    border-radius: 5px;
+    float: right;
+    position: relative;
+    top: -21px;
+}
+.editarPerfil {
+    min-width: 400px;
+    position: relative;
+    top: 0px;
+    background: #dce3e7;
+    min-height: 100%;
+    width: 100%;
+    z-index: 99;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.tMenu{
+	    width: 34px;
+    float: left;
+    text-align: center;
+}
+.mEditar {
+       padding-bottom: 4px;
+    padding-top: 5px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.imgEditarPerfil{
+	    width: 31px;
+    margin: auto;
+    position: relative;
+    margin-top: -22px;
+    z-index: 1;
+}
+#menuPerfil a{color: #848484;text-decoration: none;}
+#menuPerfil{
+	color: #848484;
+    display: none;
+    position: fixed;
+    top: 58px;
+    background: #fff;
+    padding: 9px;
+    right: 257px;
+    border-radius: 4px;
+    box-shadow: 0px 2px 6px 0px #000000;
+    z-index: 99999;
+
+}
+.btnIrMesaCriada {
+    padding: 6px 31px;
+    background: #d6d8db;
+    border: none;
+    color: #000;
+    border-radius: 4px;
+    /* float: left; */
+    margin: 12px 0px 25px;
+}
+.estiloInputFinal {
+    width: 100%;
+    max-width: 333px;
+    background: #eeeeee;
+    border: 1px solid #d8d8d8;
+    padding: 10px;
+    border-radius: 3px;
+}
+.seuurl{
+	
+	
+    margin-top: 21px;
+    margin-bottom: 10px;
+
+}
+.linkredes{
+	
+    margin-top: 21px;
+    margin-bottom: 9px;
+
+}
+.dredes{
+	
+    max-width: 311px;
+    height: 38px;
+    margin: auto;
+    padding-bottom: 120px;
+}
+.redesSociaisFinal {
+    background: #524f67;
+    padding: 12px;
+    margin: 0px 4px;
+    position: relative;
+  
+    text-align: center;
+    margin-bottom: 1px;
+    width: 54px;
+    float: left;
+    height: 54px;
+}
+.divSeis{
+	
+   
+    text-align: center;
+   
+    background: #fff;
+
+}.finalCriar{
+	
+    color: #00c350;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 34px;
+
+}
+#numDois, #numTres, #numQuatro, #numCinco, #numSeis{
+	display: none;
+}
+.boxInfo{
+	
+    border: 1px solid #e0e0e0;
+    padding: 13px;
+    border-radius: 4px;
+
+}
+.fainfo{
+	
+    color: #0f597f;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 1px 5px;
+
+}
+.col41 {
+    float: left;
+    width: 41%;
+}
+.radioCriarMesa input[type=radio], .radioCriarMesa input[type=checkbox] {
+    width: 23px;
+    height: 15px;
+}
+.estiloInput{
+	    width: 100%;
+    max-width: 250px;
+    background: #eeeeee;
+    border: 1px solid #d8d8d8;
+    padding: 4px;
+    border-radius: 3px;
+}
+#estiloSelect{
+   -webkit-appearance: none;  /* Remove estilo padrão do Chrome */
+   -moz-appearance: none; /* Remove estilo padrão do FireFox */
+   appearance: none; /* Remove estilo padrão do FireFox*/
+   background: url('../imagens/setaBaixo.png') no-repeat #eeeeee;  /* Imagem de fundo (Seta) */
+   background-position: 227px center;  /*Posição da imagem do background*/
+   width: 250px; /* Tamanho do select, maior que o tamanho da div "div-select" */
+   padding: 5px; /* Altura do select, importante para que tenha a mesma altura em todo os navegadores */
+   border:1px solid #ddd;
+}#modoDeJogo{
+   -webkit-appearance: none;  /* Remove estilo padrão do Chrome */
+   -moz-appearance: none; /* Remove estilo padrão do FireFox */
+   appearance: none; /* Remove estilo padrão do FireFox*/
+   background: url('../imagens/setaBaixo.png') no-repeat #eeeeee;  /* Imagem de fundo (Seta) */
+   background-position: 227px center;  /*Posição da imagem do background*/
+   width: 250px; /* Tamanho do select, maior que o tamanho da div "div-select" */
+  padding: 5px;/* Altura do select, importante para que tenha a mesma altura em todo os navegadores */
+   border:1px solid #ddd;
+}
+.hrForm{
+	
+    margin: 10px 0px 9px;
+    border-bottom: 1px solid #e5e5e5;
+
+}
+.hrCriar{width: 45px; color: #afafaf; border: 1px solid;}
+.EspaCriar{width: 45px; float: left;}
+.bolaAtiva{
+	 float: left;
+    padding: 6px 16px;
+    background: #106089;
+    width: 45px;
+    border-radius: 50%;
+    color: #fff;    margin: 0px 8px 2px;
+ font-size: 22px;    text-align: center;
+}
+.po5{
+	position: relative;
+	top: 5px;
+}
+.boxVideosCursos{
+	
+    border-right: 1px solid #ccc;
+    padding-bottom: 8px;
+
+}
+.boxCursos {
+	color: #000;
+       font-size: 12px;
+    border-top: 1px solid #ccc;
+    padding-top: 8px;
+    text-align: center;
+
+}.boxCursos a {
+	color: #000;
+       font-size: 12px;
+    
+    text-align: center;
+
+}
+.divCursosForm {
+    max-width: 980px;
+    margin: auto;
+    margin-bottom: 46px;
+    /* padding: 44px; */
+    margin-top: -50px;
+}
+.playCursosMeno{
+	width: 18px;position: relative;top: -3px;
+}
+.setaDireita{
+	position: relative;top: -3px;
+}
+.estrelaCurso{
+	
+    padding-top: 5px;
+    padding-bottom: 14px;
+
+}
+.progressC{
+	background: #f1f1f1;color: #000;border-bottom-left-radius: 14px;border-bottom-right-radius: 14px;
+}
+.bordarProgress{
+	border-radius: 10px;
+    border: 1px solid #ccc!important;
+	background: #b5b5b5;
+}
+
+.corInternoProgress, .w3-hover-grey:hover, .w3-gray, .w3-hover-gray:hover {
+    color: #fff;
+	border-radius: 10px;
+    background-color: #524f67!important;
+}
+#moduloVideos {
+       padding-top: 38px;
+}
+.tabVideosCursosInterno{
+	padding-bottom: 44px;
+}
+.tabVideosCursosInterno button {
+	border-bottom: 1px solid #ababab;
+    display: block;
+    color: #000;
+       padding: 14px 15px;
+    width: 173px;
+
+    float: left;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 12px;
+    background: #fff;
+    color: #7b7b7b;
+    border-right: 1px solid #ababab;
+	font-weight: bold;
+}
+.div01b{
+	width: 45px;
+    text-align: center;
+    float: left;
+	    height: 30px;
+    font-size: 19px;
+}
+.div117{
+width: 117px;}
+.padd22{
+	    padding-bottom: 22px!important;
+}
+.activeVideosTab, .tabVideosCursosInterno button:hover{
+	background: #106089!important;
+	color: #fff!important;
+}
+.btnRodape{
+	padding: 12px;
+    border: none;
+    background: none;
+	font-weight: bold;
+    color: #949494;
+
+}.tabVideosCursosInterno img {
+	    position: relative;
+    top: 8px;
+	right: 5px;
+}
+.btnAnotacoes, .btnDuvidas{
+padding: 9px;padding-bottom: 35px;}
+.bprox{
+	font-family: 'gilroyextrabold';
+    background: #106089;
+    padding: 7px 19px;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+	margin-right: 8px;
+    margin-left: 8px;
+
+}.bant{
+	font-family: 'gilroyextrabold';
+    background: #fff;
+    padding: 7px 19px;
+    border: 1px solid;
+    color: #106089;
+    border-radius: 5px;
+	margin-right: 8px;
+    margin-left: 8px;
+
+}
+.brlIconsVideo{
+	 border-right: 1px solid #cacaca;
+	 border-left: 1px solid #cacaca;
+}
+  .blIconsVideo{
+	 border-right: 1px solid #cacaca;
+}
+   
+
+.max800{
+	max-width: 700px;
+	margin: auto;
+}
+.btnPassarVideos{
+	    margin-bottom: 15px;
+    text-align: center;
+    padding: 26px;
+
+}
+.divVideo{
+	
+    background: #303030;
+    text-align: center;
+    padding: 30px;
+
+}
+.progressCurso{
+	height: 25px;
+	border-radius: 10px;
+	padding-left: 12px;
+	font-size: 16px;
+	color: #fff!important;
+	padding-top: 1px;
+	font-family: 'gilroyligth';
+}
+.max850{
+	
+    max-width: 850px;
+    margin: auto;
+
+}
+.div1processocurso{
+	background: #9590ba;color: #fff;border-top-left-radius: 14px;border-top-right-radius: 14px;padding: 6px 35px;
+}
+.playCinzaLogado{
+	
+    position: relative;
+    top: -3px;
+    padding-right: 7px;
+
+}
+.tituloCursoOnlineInd, .tituloCursoOnlineInd a{
+	 font-family: 'gilroyextrabold';
+    font-size: 18px;
+    color: #000;
+    padding-top: 7px;
+
+}
+.divCursoIndividual{
+	    margin-bottom: 40px;
+    background: #eeeeee;
+    min-height: 111px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+.divImgCurso{
+	
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    position: relative;
+
+}
+.icoPlayTitulo{
+	
+    position: relative;
+    top: -15px;
+
+}
+.inpRede{
+	    margin-top: 1px;
+    border: none;
+
+}
+.pesquisaJogoCe{
+	
+    position: absolute;
+    left: 7px;
+    top: 32px;
+
+}
+.nmesaCriarMesa{
+	font-size: 12px;
+    margin-right: 1px;
+    margin-left: 1px;
+    background: none;
+    border: 1px solid #bdbdbd;
+    color: #bdbdbd;
+
+}
+.activeCE{
+	    border: 1px solid #524f67!important;
+    color: #fff!important;
+    background: #524f67!important;
+}
+.subtituloCriar{
+	    FONT-SIZE: 10PX;
+}
+.divCriarMesa{
+	    font-size: 18px;
+    padding: 50px 0px;
+    text-align: center;
+color: #fff;
+	 background-image: url("../imagens/backCriarMesa.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}.divCriarEvento{
+	    font-size: 18px;
+    padding: 50px 0px;
+    text-align: center;
+color: #fff;
+	 background-image: url("../imagens/back_criarMesa.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pad27{
+	    padding-top: 32px!important;
+}
+.divAmigosE {
+    border: 1px solid #cacaca;
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+    border-radius: 4px;
+    position: relative;
+float: left;    margin-bottom: 161px;}
+.amigosEdtPerfil{
+	
+       background: #f4f4f4;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    min-height: 93px;
+    box-shadow: 0px 4px 11px 0px #888888;
+    float: left;
+    width: 15%;
+    margin-right: 4px;
+    margin-left: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.perfilMestreRede {
+	padding: 2px 5px;
+    color: #805b86;
+    border: 1px solid;
+    /* margin-right: 3px; */
+    float: left;
+    /* width: 47%; */
+    border: 1px solid #848484;
+    border-radius: 4px;
+   
+    font-size: 11px;
+}
+.padding32{
+	    padding: 32px 1px;    
+}
+.dPessoasRede{
+	    padding:1px 25px;
+   
+
+}
+.cardImgInterna{
+	    margin-top: -250px;
+    position: relative;
+	    max-width: 180px;
+
+}
+.paginaAtiva {
+    float: left;
+    padding: 2px 10px;
+    /* background: #fff; */
+    width: 35px;
+    border-radius: 50%;
+    color: #106089;
+    margin: 0px 8px 2px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #106089;
+}
+.larguraEventoInterno{
+	max-width: 800px; margin: auto;
+}
+.faSize{
+	
+    padding-right: 6px;
+    font-size: 19px!important;
+
+}
+.ActivetabEventoInterno, .tabEventoInterno button:hover {
+  background-color: #515067!important; 
+ 
+}
+.tabEventoInterno button {
+    display: block;
+    color: #000;
+    padding: 10px 15px;
+    width: 164px;
+    float: left;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 18px;
+    background: #106089;
+    color: #fff;
+    margin-right: 3px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.divEventoInterno{
+	
+    font-size: 16px;
+    padding: 17px;
+text-align: center;
+}
+.backe{
+	background: #eeeeee;
+}
+.descricaoEventoInterno{
+	
+    background: #fff;
+    padding: 16px 32px;
+    margin-bottom: 42px;
+}
+.pagina {
+    margin: 0px 8px 2px;
+    padding: 2px 10px;
+    /* background: #fff; */
+    width: 35px;
+    border-radius: 50%;
+    color: #afafaf;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid;
+}
+.divpaginador{
+	
+        max-width: 255px;
+    margin: auto;
+    /* float: none!important; */
+    /* height: 84px; */
+    padding-top: 49px;
+    padding-bottom: 90px;
+
+}
+.to3{
+	
+    position: relative;
+    top: -3px;
+
+}
+.backbranco{
+	background: #fff;
+}
+.crede{    min-height: 82px!important;
+	padding: 10px 0px;
+    background: #eeeeee;
+    border-radius: 14px;
+    border: 1px solid #d0d0d0;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+	       max-width: 227px;
+}
+.dadosUsuarioRede {
+   float: left;
+    max-width: 123px;
+    width: 100%;
+    padding-left: 10px;
+}
+.avatarRede{
+	
+    float: left;
+      width: 59PX;
+    margin-left: 0px;
+}
+
+.curtir{
+	color: #004b6a;
+	    font-size: 18px!important;
+}
+.textoDepoimento{
+	
+    font-size: 11px;
+    text-align: justify;
+
+}
+.colSeguidores{
+	
+    background: #fff;
+    text-align: center;
+    padding: 27px 0px;
+    min-height: 270px!important;
+		
+
+}
+.perfil-home{
+	background: #dde4e8;
+}
+.numNotifica{
+	    background: #317c9e;
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 50%;
+    font-size: 11px;
+    position: relative;
+    top: 5px;
+    left: -5px;
+    font-family: 'gilroyextrabold';
+}
+.icon2 {
+  padding: 15px;
+ 
+  color: #848484;
+  min-width: 50px;
+  text-align: center;
+      height: 47px;
+}
+.inputRelatarProb{
+	
+    background: #e5e5e5;
+    border: none;
+    color: #000;
+    margin: 6px 0px 6px;
+
+}
+.valorConfirmar{
+	color: #000;
+	font-weight: 100;
+}
+.rowConfirmarPresenca{
+	padding: 15px;
+    text-align: center;
+    font-size: 18px;
+	border-bottom: 1px solid #e0e0e0;
+}
+.rowConfirmarPresencaValor{
+	    color: #524f67;
+    font-weight: bold;
+	padding: 15px;
+    text-align: right;
+    font-size: 18px;
+	    border-top: 1px solid #e0e0e0;
+		    position: absolute;
+    bottom: 45px;
+    width: 100%;
+
+}
+.posicaoCifrao{
+	
+    position: relative;
+    top: -5px;
+
+}
+#colunaConfirmarPresenca, #btn3{
+	display: none;
+}
+.textAreaRelatar{
+	min-height: 177px;
+}
+.estruturaMesa{
+	    max-width: 492px;
+    width: 100%;
+    float: left;
+}
+.input-field {
+  width: 100%;
+     padding: 9px!important;
+    outline: none;
+    height: 34px;
+    border: none!important;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #504f67;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.textoJornalInterno{
+	    font-weight: bold;
+    color: #524f67;
+    padding: 6px;
+    font-size: 16px;
+    margin-top: -12px;
+
+}
+.imgJornalIcon{
+	
+    position: relative;
+    top: -4px;
+
+}
+.btn:hover {
+  opacity: 1;
+}
+.botaofechar{
+	
+   float: right;
+    position: relative;
+    top: -9px;
+    left: -5px;
+    /* background: #e0e0e0; */
+    padding: 2px 8px;
+    border-radius: 50%;
+    color: #000;
+	    font-size: 18px;
+    font-weight: bold;
+}.botaofecharCadastrese{
+	float: right;
+    position: relative;
+    top: 2px;
+    left: -5px;
+    /* background: #e0e0e0; */
+    padding: 2px 8px;
+    border-radius: 50%;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 9;
+}
+.dataSessaoCriarMesa {
+    text-align: center;
+    padding: 7px 0px 12px;
+    border-right: 1px solid #dbd8ec;
+   
+}
+.mapsSessao2 {
+    min-height: 117px!important;
+    max-height: 195px!important;
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+.botaofecharEsqueceuSenha {
+    float: right;
+    position: relative;
+    top: -13px;
+    left: 15px;
+    background: #e0e0e0;
+    padding: 0px 8px;
+    border-radius: 50%;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+#divBuscaMenu {    margin-top: 9px;
+    background-color: #ffffff;
+    border: solid 2px #ffffff;
+    border-radius: 10px;
+    width: 100%;
+    height: 38px;
+    margin: auto;
+}
+.logoHomeLogado {
+    width: 100px;
+    float: left;
+    margin-left: 51px;
+    padding-top: 6px;
+}
+.colSessaoDoJogoCriar {
+    min-height: 305px;
+}
+.neg81{
+	    margin-top: -81px;
+}
+.relogioCriarMesa{
+	    font-size: 12px;
+    padding-top: 5px;
+    text-align: center;
+}
+.diaNumeralData2 {
+    font-size: 29px;
+    padding-top: 4px;
+    margin-bottom: -9px;
+}
+.div_login, .div_esqueceusenha{ 
+	display: none;
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    background: #00000096;
+    min-height: 100%;
+}.div_jornal{ 
+display: none;
+	width: 100%;
+    position: absolute;
+    z-index: 9999;
+    top: -60px;
+    min-height: 100%;
+    max-width: 393px;
+    right: 107px;
+}.div_relatarproblema{ 
+display: none;
+	    width: 100%;
+    position: absolute;
+    z-index: 9999;
+    top: -61px;
+    min-height: 100%;
+    max-width: 388px;
+    right: 107px;
+}
+.div_anexos{ 
+display: none;
+	width: 100%;
+    position: absolute;
+    z-index: 9999;
+    top: 121px;
+    min-height: 100%;
+    max-width: 433px;
+    right: 213px;
+}
+.div_cadastro{ 
+	display: none;
+    width: 100%;
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    background: #00000096;
+    min-height: 100%;
+}
+input[type=text], select, textarea, input[type=password] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  resize: vertical;
+  background: #f3f3f3;
+}
+
+input[type=submit] {
+  background-color: #1b5d79;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+      margin-top: 15px;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.activeAcordion, .accordion:hover {
+ background-color: #504f67;
+    color: #fff;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.activeAcordion:after {
+  content: "\2212";
+}
+
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+/*Section*/
+/*HEADER*/
+.primeiraSecao {
+  background-image: url("../imagens/header-background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.fixed-top {
+  
+box-shadow: 0px -3px 20px #000;}
+/*HEADER*/
+/*NAVBAR*/
+nav.navbar.navbar-expand-xlg.navbar-light.bg-light {
+  width: 100%;
+}
+
+#right-nav-content {
+  display: flex;
+  flex-direction: row;
+}
+
+#right-nav-content li.nav-item {
+  padding-right: 20px;
+  margin-right: 40px;
+}
+
+.menulogo-container {
+  margin-left: 100px;
+}
+
+#logo-navbar {
+  width: 100px;
+  height: auto;
+}
+
+#logo-container {
+  margin-left: 40px;
+}
+
+.nav-logo {
+  width: 17px;/*aline*/
+  height: 17px;/*aline*/
+}
+
+.flag-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+/*NAVBAR*/
+/*Header Content*/
+.header-content {
+  display: block;
+  width: 100%;
+  margin-top: 160px;
+  margin-left: 200px;
+}
+
+.header-main {
+      color: #1b5d79;
+    font-size: 63px;/*aline*/
+    margin-top: 10px;
+    line-height: 0.8em;
+    font-weight: 100;
+}
+
+.header-sub {
+ color: #514f67;
+    font-size: 63px;/*aline*/
+    line-height: 0.9em;/*aline*/
+    font-family: 'gilroyextrabold';
+}
+
+.sub-text {
+      text-align: justify;
+    font-size: 17px;/*aline*/
+    line-height: 1em;
+    padding-top: 30px;/*aline*/
+    color: #5d5d5d;
+}
+.card-img{
+	position: relative;
+    top: -22px;
+}
+
+/*Header Content*/
+/*header button-signin, header button-signin-image*/
+.header-button-signup-image {
+ width: 20px;
+    margin-right: 20px;
+    position: relative;
+    top: -2px;
+}
+/* Style the tab */
+.tab {
+  float: left;
+  width: 25%;
+  height: 300px;
+  margin-right: 15px;
+}
+
+.spanImage{
+    background-image: url('imagens/icones/conversation.png') no-repeat;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.card-body{
+	    text-align: left;
+		    color: #aba9a9!important;
+}
+
+#favoritado1,#favoritado2,#favoritado3,#favoritado4,#favoritado5,#favoritado6,#favoritado7,#favoritado8{
+	display: none;
+}
+.tabJornal{
+	width: 100%;
+}.tabJornalCard{
+	width: 100%;
+}
+.card-body span{
+	font-size: 11px;
+}
+.pesquisa{
+	
+    text-align: center;
+    margin-top: 19px;
+    margin-bottom: 10px;
+
+}
+.card-info{
+	
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+.h2footer{
+	color: #27336a;font-weight: bold;font-size: 18px;
+	    padding-bottom: 7px;
+}
+.pfooter a{
+	color:#514f67;
+	font-weight: 400;
+	font-size: 14px;
+}
+.pfooter {
+	    padding-bottom: 5px;
+}
+.btnStatusCurso {
+   font-family: 'gilroyextrabold';
+    padding: 1px 9px;
+    border: none;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    float: right;
+    border-radius: 4px;
+    width: 140px;    text-align: center;
+}
+.assitido{
+ background: #1cb54c;
+}
+.assistindo{
+ background: #9a9a9a;
+}
+
+.linhaAssistindo:hover{
+	background: #f4f4f4;
+	color: #000;
+	 padding: 4px 18px;
+	 border-radius: 10px;
+}.linhaAssistindo{
+	color: #a2a2a2;
+	 padding: 4px 18px;
+}
+.iconPlayAssistido{
+	
+  font-size: 10px!important;
+    /* color: white; */
+    /* background: #524f67; */
+    border-radius: 50%;
+    padding: 2px 4px;
+    border: 1px solid;
+    text-align: center;
+
+}
+.accordionCurso {
+ background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 7px 27px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    border-radius: 16px;
+	    margin-bottom: 6px;
+}
+
+.accordionactive, .accordionCurso:hover {
+  background-color: #ccc; 
+}
+.accordionCurso:after {
+	content: '\002B';
+    color: #eee;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+    background: #524f67;
+    border-radius: 64%;
+    padding: 0px 7px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.accordionactive:after {
+  content: "\2212";
+}
+
+.panelCurso {
+ padding: 0 0px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordionJornal {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+.alturaPassador{
+	
+       position: relative;
+    top: 42%;
+    background: #7d7d7d;
+    padding: 6px 6px;
+    border-radius: 50%;
+}
+.c01:hover #usuario1{
+	display: block
+}
+.activeJornal, .accordionJornal:hover {
+  background-color: #ccc; 
+}
+
+.panelJornal {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+.divDepoimentos{
+	    background: #fff;
+    text-align: center;
+    
+
+}
+.divcardDepoimentosPerfil{
+	
+    max-width: 179px;
+    margin: auto;
+    margin-top: 17px;
+
+}
+.jogadorDepoimento{
+	border: 1px solid; color: #c4c4c4;  padding: 1px 5px;font-size: 10px!important;
+}
+.wid70{
+
+    float: left;
+    width: 59px;
+
+}
+.btnLeiaMaisPub{
+	
+    background: #5f5c73;
+    border: none;
+    color: #fff;
+    border-radius: 14px;
+    font-size: 10px;
+    padding: 3px 10px;
+
+}
+.tituloMinhasPub{
+	
+    text-align: center;
+    color: #767676;
+    font-weight: bold;
+	margin-bottom: 42px;
+    margin-top: 10px;
+
+}
+.MinhasPublicacoes{
+	
+    background: #eeeeee;
+    padding: 30px 10px;
+
+}
+.btnVerTodosDepoimentos{
+	
+    background: none;
+    color: #00496d;
+    border: 1px solid #00496d;
+    padding: 4px 23px;
+    border-radius: 21px;
+    margin: 25px 0px 40px;
+
+}
+.rigthMeusDepoimentos {
+    color: #fff!important;
+    background: none!important;
+    right: -70px!important;
+}
+.leftMeusDepoimentosPerfil {
+    color: #fff!important;
+    background: none!important;
+    left: -71px!important;
+}
+#meusDepoimentosPerfil{
+	
+    max-width: 930px;
+    margin: auto;
+
+}
+.nomeJogadorPerfil{
+	width: 45%;text-align: left;float: left;font-size: 12px;
+}
+.alignJustify{
+	text-align: justify;
+}
+.divAvatarDepoimento{
+	width: 80px; float: left;
+}
+.divDadosPerfilDepoimentos{
+	width: 181px; float: left; padding-left: 10px;    text-align: left;
+}
+.colDepoimentosPerfil{
+	box-shadow: 0px 4px 3px 0px #888888;
+	background: #eeeeee;border-radius: 17px;padding: 14px;min-height: 515px;margin-bottom: 20px;
+}
+.icoplaneta{
+	
+    position: absolute;
+    top: 6px;
+    left: 21px;
+
+}
+#estiloSelectEV {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../imagens/setaBaixo.png) no-repeat #ffffff;
+    background-position: 147px center;
+    width: 100%;
+    padding: 5px 38px;
+    box-shadow: 0px 3px 7px 1px #888888;
+    border: 1px solid #ddd;
+}
+.botoesPesquisarMesa{
+	
+    max-width: 800px;
+    margin: auto;
+    padding-bottom: 52px;
+
+}
+.curtidasDepoimentos{
+	width: 38px;float: left;font-size: 12px;color: #c4c4c4;
+}
+.sessaoPaga{
+	background: #47b4b1;
+    max-width: 51px;
+    border-radius: 9px;
+    text-align: center;
+    color: #fff;
+    padding: 1px 2px;
+    font-size: 12px;
+    margin-bottom: -17px;
+    margin-top: 4px;
+    position: relative;
+    top: 1px;
+    z-index: 5;
+    left: 104px;
+}
+}.sessaoPagaDepoimentos{
+	background: #47b4b1;
+    max-width: 92px;
+    border-radius: 9px;
+    text-align: center;
+    color: #fff;
+    padding: 1px 8px;
+    font-size: 11px;
+    margin-bottom: -17px;
+    margin-top: 4px;
+    position: relative;
+    top: 10px;
+    z-index: 5;
+    left: 61px;
+}
+.alignleft{
+	text-align: left;
+}
+.colVersaoPerfil {
+    border: 1px solid;
+    margin-right: 3px;
+    float: left;
+    width: 47%;
+    border: 1px solid #52b8b5;
+}
+.tituloDepoimentos{
+	padding: 27px;
+}
+.vagasTexto{
+	max-width: 410px;margin: auto;padding-top: 22px;padding-bottom: 45px;
+}
+.btnVerHistorico{
+	background: none;
+    color: #004a6b;
+    border: 1px solid #004a6b;
+    border-radius: 18px;
+    padding: 4px 23px;
+    margin-bottom: 26px;
+    margin-top: 20px;
+	    font-size: 13px;
+		
+    text-decoration: none;
+
+}
+
+.dRp{
+	max-width: 197px;
+    float: right;
+    line-height: 19px;
+}
+.carousel-indicatorsSlideMesa {
+    /* position: absolute; */
+    bottom: 10px;
+    /* left: 50%; */
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    /* margin-left: -30%; */
+    text-align: center;
+    list-style: none;
+}
+.alturaPassador2 {
+        position: absolute;
+    color: #7d7d7d;
+    padding: 6px 6px;
+    border-radius: 50%;
+    bottom: -31px;
+    left: 60px;
+    border: 1px solid;
+}
+.carousel-indicatorsSlideMesa .active {
+    width: 14px;
+    height: 14px;
+    margin: 1px;
+    background-color: #a3a3a3;
+}
+.carousel-indicatorsSlideMesa li {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color:#fff;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+#slideMesaHome {
+    max-width: 100%;
+    margin: auto;    
+    /* padding: 37px 6px; */
+	   /* margin-left: 90px;aline*/
+}
+.top3n{
+	
+    top: -3px;
+    position: relative;
+
+}
+.vagas{
+	color: #3fc366;
+	font-weight: bold;
+}
+.vagasCompleto{
+	color: #00476f;
+}
+.vagasFinalizado{
+	color: #626262;
+	    font-weight: bold;
+}
+.r{
+	    margin-top: 70px;
+}
+.card{
+	
+	min-height: 300px; /*300*/
+	max-width: 295px;
+    margin: auto;
+	text-align: center;background: #fff;    padding-top: 1px;
+}
+.termosEPolitica{
+	    max-width: 227px;
+}
+.rodapeLogin{
+	    max-width: 209px;
+}
+.cardBox273{
+	 height: 173px; 
+}
+	   
+.width323{
+	    max-width: 323px;
+    float: left;
+    margin-left: 33px;
+}
+.card-autor{
+	max-width: 321px;
+    margin: auto;
+    padding: 9px 0px;
+	height: 53px;
+}
+.card-box{
+	background: #dfdfdf; margin: 9px;
+	
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: #a1a1a1;
+     padding: 3px 25px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    background: #f4f4f4;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    min-height: 73px;
+	
+    border-bottom: 1px solid;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #504f67;
+  color: #fff;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #504f67;
+  color: #fff;
+}
+/* Style the buttons inside the tab */
+.tabJornal button {
+      display: block;
+    color: #fff;
+     padding: 53px 0px 54px; 
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 14px;
+    background: #524f67;
+    /* border-radius: 10px; */
+    /* margin-bottom: 10px; */
+    min-height: 130px;
+    border-bottom: 1px solid #888888;
+}.tabJornalCard button {
+      display: block;
+    color: #fff;
+     padding: 53px 0px 54px; 
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 14px;
+    background: #524f67;
+    /* border-radius: 10px; */
+    /* margin-bottom: 10px; */
+    min-height: 130px;
+    border-bottom: 1px solid #888888;
+}
+.tabperfil{
+	background: #d5d5d5;
+    width: 100%;
+    min-height: 40px;
+}.tabperfil button {
+   display: block;
+    color: #fff;
+    padding: 10px 5px;
+    width: 33%;
+    float: left;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 14px;
+    background: #d5d5d5;
+    color: #343434;
+	
+    
+
+}
+
+/* Change background color of buttons on hover */
+.tabJornal button:hover {
+  background-color: #504f67;
+  color: #fff;
+}
+
+/* Create an active/current "tab button" class */
+.tabJornal button.active {
+    background-color: #585e8c;
+  color: #fff;
+}
+.tabperfil button.active {
+    background-color: #7d7d7d;
+  color: #fff;
+}
+.iconPerfil{
+	width: 15px;
+}
+.aju{
+	
+    margin-top: -14px;
+    font-size: 12px;
+
+}
+.alturamenor{
+	    min-height: 230px!important;
+    margin-bottom: 9px;
+}
+.card-perfil{
+	      padding-right: 0px!important;
+    padding-left: 6px!important;
+}
+.card-body-perfil {
+    text-align: left;
+    padding-left: 2px;
+}
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+ 
+  width: 70%;
+  border-left: none;
+  height: 300px;
+}
+.leftMinhasPreferencias{
+	color: #fff!important;
+    background: none!important;
+    left: -46px!important;
+}
+.rigthMinhasPreferencias{
+	color: #fff!important;
+    background: none!important;
+    right: -46px!important;
+}
+.topRadio{
+	
+    position: relative;
+    top: -7px;
+
+}
+.btnCancelar {
+    padding: 5px 31px;
+    background: #d6d8db;
+    border: none;
+    color: #000;
+    border-radius: 4px;
+    /* float: left; */
+    /* margin: 12px 0px 25px; */
+}.btnDeletar {
+        float: right;
+    padding: 5px 31px;
+    background: #ffffff;
+    border: 1px solid #d0d0d0;
+    color: #000;
+    border-radius: 4px;
+    /* float: left; */
+    /* margin: 12px 0px 25px; */
+
+}
+#minhasPreferencias{
+	max-width: 378px;
+    margin: auto;
+    padding: 37px 6px;
+}
+.min1118{
+	    min-height: 1196px!important;
+}
+.submit-lente {
+  position: absolute;
+        left: 3px;
+    top: 9px;
+
+  z-index:10;
+  border:none;
+  background:transparent;
+  outline:none;
+}
+
+.submit-line {
+  position: relative;
+  width: 200px;
+}
+
+.submit-lixeira{
+	background: none;
+	border: none;
+}
+.editar1 input[type=radio], .exemplo1 input[type=checkbox] {
+    width: 28px;
+    height: 17px;
+}
+.estiloInput80 {
+    width: 100%;
+	max-width: 180px;
+    background: #eeeeee;
+    border: 1px solid #d8d8d8;
+    padding: 4px;
+    border-radius: 3px;
+}
+.submit-line input {
+  width: 100%;
+}
+#disponibilidadeJogador, #minhasPreferenciasEditar, #sessoesPresenciais, #sessoesOnlineE{
+	padding: 15px;
+}
+#minhasPreferenciasEditar{
+	    min-height: 737px;
+}
+.divTabelaDisponibilidadeEP {
+    max-width: 430px;
+    /* margin: auto; */
+    padding-top: 30px;
+	    margin-bottom: 231px;
+}
+.tabcontentPerfil {   
+ margin-bottom: 0px;
+    padding: 6px 0px;
+    width: 100%;
+    min-height: 299px;
+    background: #fff;
+   display: none;
+   box-shadow: 0px 0px 31px -8px #000;
+}
+
+.imgJogadoresEvento{
+	width: 100%;
+	
+}
+.msliE{
+	
+    margin-right: 6px;
+    margin-left: 6px;
+
+}
+.imgJogadoresEventoI{
+	padding: 0;
+}
+
+element.style {
+}
+#jogadoresSlide{
+	    max-width: 430px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.tcriarEv {
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 0px;
+    font-size: 17px;
+}
+.iconJogVao{
+	
+    position: relative;
+    top: -6px;
+
+}
+.passadorE {
+    position: relative;
+    top: 13%;
+    background: none;
+    padding: 6px 6px;
+    border-radius: 50%;
+    color: #106089;
+}
+.col10 {
+    width: 10%;
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.editarInfo{
+	
+    text-align: right;
+    position: relative;
+    top: 7px;
+    padding-right: 6px;
+    color: #106089;
+
+}
+.NumjogadoresVao{
+	
+    background: #fff;
+    padding: 10px 17px;
+    margin-bottom: 48px;
+    margin-top: 40px;
+	    min-height: 66px;
+
+}
+.col22 {
+    width: 22%;
+    float: left;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.tabcontentEventoInterno {    margin-bottom: 29px;
+    padding: 21px 0px;
+    width: 100%;
+    min-height: 299px;
+    background: #e5e5e5;
+   display: none;
+   box-shadow: 0px 0px 31px -8px #000;
+       margin-top: 22px;
+}
+.tabcontentJornalInterno {
+    padding: 21px 0px;
+    width: 100%;
+    min-height: 299px;
+    background: #eeeeee;
+   display: none;
+}.tabcontentJornal {
+  
+  display: none;
+}
+.tab button.active:after{
+	content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 440px;
+    border-top: 23px solid transparent;
+    border-bottom: 23px solid transparent;
+    border-left: 31px solid #504f67;
+    border-radius: 50%;
+    margin-top: -29px;/*aline*/
+    transition-delay: 0.9s;
+}
+
+
+#header-button-signup {
+  margin-top: 20px;
+  background-color: #514f67;
+  border: 1px solid #514f67;
+  border-radius: 15px;
+  padding: 11px 38px;
+      color: #ffffff;
+	      width: auto;
+}
+
+/*header button-signin, header button-signin-image*/
+/*Section-Options*/
+#section-1 {
+  background-image: url("../imagens/section1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.left-info-video {
+  display: flex;
+  flex-direction: column;
+}
+
+.left-info-video li {
+  padding: 20px;
+  width: 285px;
+  height: 75px;
+  white-space: nowrap;
+  border: 1px solid blue;
+  border-radius: 10px;
+  background-color: #f4f4f4;
+}
+
+.left-info-video li {
+  background-color: #f4f4f4;
+}
+
+.left-info-video li.selected {
+  background-color: #504f67;
+}
+
+.left-info-video li a {
+  color: black;
+}
+
+.left-info-video img:hover {
+  filter: opacity(.4);
+}
+
+#header-button-signup2 {
+  margin-top: 20px;
+  background-color: #514f67;
+  border: 1px solid #514f67;
+  border-radius: 15px;
+}
+
+#header-button-signup-image2 {
+  width: 30px;
+  height: auto;
+}
+
+/*Section-Options*/
+/*Section-Room*/
+#section-2 {
+	    padding: 60px;
+  background-image: url("../imagens/section2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div#room-grid {
+  justify-content: center;
+}
+
+.room-status-container, li {
+  display: inline;
+}
+
+.icon-status-room {
+  width: 20px;
+  height: auto;
+}
+
+#search-button {
+  padding: 20px;
+}
+
+#search-button-room {
+  margin-top: 20px;
+  background-color: #514f67;
+  border: 1px solid #514f67;
+  border-radius: 15px;
+  width: 220px;
+}
+
+.lupa {
+  width: 20px;
+  height: auto;
+}
+
+.user-photo {
+  width: 25px;
+  height: auto;
+  border-radius: 50%;
+}
+
+/*Section-Room*/
+/*Section-Contact*/
+#logo {
+  width: 180px;
+  height: auto;
+}
+
+#info-list {
+  display: flex;
+}
+
+#info-list-2 {
+  display: flex;
+}
+
+.left-info-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+
+.right-info-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+
+.terms-police-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+
+.login-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+
+.media-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+.width230{
+	    max-width: 230px;
+    float: left;
+}
+.max55{
+	    max-width: 55px;
+		
+    float: right;
+
+}
+.conversarFacebook{
+	
+    max-width: 107px;
+    float: left;
+    padding-left: 7px;
+    position: relative;
+    top: -5px;
+
+}
+.contact img{
+	padding-right: 5px;
+}
+.contact-list {
+     display: flex;
+    background: #fff;
+    font-family: 'gilroyextrabold';
+    color: #004a69;
+    padding-top: 6px;
+    padding-bottom: 22px;
+}
+
+span.contact {
+  padding: 20px;
+}
+
+.social-media{
+  width: 15px;
+  height: auto;
+}
+ol, ul{
+	margin-bottom: 0px!important
+}
+#menuLateral{
+	display: none;
+}
+.menuHamburquer{
+	
+    float: left;
+    width: 110px;
+    padding: 10px;
+
+}
+.classlogo{
+	
+    width: 260px;
+    float: left;
+
+}
+.menuDireito a{
+	
+     color: #cbcbcb!important;
+    padding-right: 25px;
+	text-decoration: none;
+
+}.menuDireito{
+	
+    max-width: 350px;
+    float: right;
+    margin: 0 49px;/*aline*/
+}
+.idiomasMenu{
+	width: 66px; border: none;
+}
+.menu{
+	padding: 5px;
+    position: fixed;
+    max-width: 100%;
+    width: 100%;
+	background: #f3f3f3;
+    padding: 0px;
+	box-shadow: 0px 0px 11px #8080806b;/*aline*/
+	z-index: 9999;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+.mapsSessao{
+	    min-height: 167px!important;
+    max-height: 195px!important;
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+	
+}
+.dataSessao{
+	
+    text-align: center;
+    padding: 20px 0px 33px;
+    border-right: 1px solid #dbd8ec;
+
+}
+.horarioSessao{
+	text-align: center;
+    padding: 20px;
+ }
+ #curtir{
+	 display:none;
+ }
+ 
+ .center{
+	text-align: center;
+ }
+.responderComentario{
+	color: #3f4b7b;
+	border-left: 1px solid;
+	    padding-left: 38px!important;
+}
+.diaNumeralData{
+	
+    font-size: 34px;
+    padding-top: 7px;
+    margin-bottom: -5px;
+
+}#divComentarioPublicado{
+	display: none;
+}.colComentarioPublicado{
+	background: #eeeeee;    
+	    margin-top: -40px;
+	border-bottom-left-radius: 10px;
+	    padding: 21px 0px 23px;
+}
+a:hover{
+	text-decoration: none;
+}
+.botaoFecharMesa{
+	
+    color: #fff;
+    font-size: 21px;
+    text-align: right;
+    padding-right: 11px;
+
+}.botaoFecharMesa a{
+	
+    color: #fff;
+    font-size: 21px;
+    text-align: right;
+    padding-right: 11px;
+	text-decoration: none;
+
+}
+.colSessaoMesa{
+	padding-right: 0px!important;
+    padding-left: 0px!important;
+    background: #fff;
+    padding: 0;
+    margin-top: 40px;
+	
+    border: 0;
+    right: 0;    top: 4px;
+   
+}
+.sessaoUmMesa{
+	text-align: center;
+    padding: 10px;
+    background: #524f67;
+    color: #fff;
+   
+
+}
+.colSessaoDoJogo{
+	    min-height: 445px;
+}
+.colConfirmarPresenca{
+	min-height: 445px;
+}
+#btn4, #btn5{
+	display: none;	
+}
+.sessaoConfirmarPresenca{
+	    text-align: left;
+    padding: 14px;
+    background: #524f67;
+    color: #fff;
+   
+
+}
+.dadosPerfilMestre{
+	
+    padding: 0px 35px 12px;
+
+}
+.nomeMestre{
+	color: #004b6a;
+	font-weight: bold;
+	font-family: 'gilroyextrabold'!important;
+}
+.perfilMestre{
+    color: #805b86;
+    border: 1px solid;
+    margin-right: 3px;
+    float: left;
+    /* width: 47%; */
+    border: 1px solid #848484;
+	border-radius: 4px;
+    padding: 4px;
+}
+.sempadding{
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+}.semmargin{
+	margin-left: 0px!important;
+	margin-right: 0px!important;
+}
+#cardMesaIndividual{
+	display: none;
+}
+.tenhoInteresse{
+	text-align: center;
+    padding: 8px;
+    background: #524f67;
+    color: #fff;
+}
+.confirmarJogo{
+	text-align: center;
+    padding: 8px;
+    background: #17c75f;
+    color: #fff;
+	   
+}
+.btnfecharUsuario{
+	float: right; position: relative; top: 3px;
+}
+.alignleft{
+	
+    text-align: left;
+
+}
+.nomeUsuario{
+	color: #524f67;
+	font-weight: bold;
+}
+.avatarUsuario{
+	max-width: 50px;float: left;margin-right: 13px;
+}
+.descricaoUsuario{
+	    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+       right: -84px;
+    top: 59px;
+    z-index: 2;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario4{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+      left: 72px;
+    top: 186px;
+    z-index: 4;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario6{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+    left: 123px;
+    top: 314px;
+    z-index: 7;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario7{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+    left: 252px;
+    top: 337px;
+    z-index: 4;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario8{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+     left: 384px;
+    top: 308px;
+    z-index: 2;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario5{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+    left: 435px;
+    top: 189px;
+    z-index: 2;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoUsuario1{
+	
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+    left: 119px;
+    top: 59px;
+    z-index: 6;
+	box-shadow: 0px 4px 11px 0px #888888;
+
+}.descricaoMestre{
+	box-shadow: 0px 4px 11px 0px #888888;
+    max-width: 226px;
+    width: 100%;
+    position: absolute;
+    padding: 9px 2px 4px 65px;
+    background: #e5e5e5;
+    border-radius: 11px;
+    border: 1px solid #9a9a9a;
+     left: 253px;
+    top: 25px;
+    z-index: 4;
+
+}
+.menuMobileJornal{
+			display: none;
+}
+.dadosComentario{
+	width: 100%;/* float: left; */padding-left: 95px;
+}
+@media only screen and (min-width 801px) and (max-width 700068px){
+	#idtabJornal{
+		display: block
+	}
+}
+.col50mestre{
+	float: left;
+	width: 50%;
+}.nota{
+	
+    width: 36px;
+    margin: auto;
+    /* float: left; */
+    text-align: center;
+
+}
+.estrelasClassificacao{
+	
+    float: right;
+    margin-top: -26px;
+
+}
+.unEstrela{
+	    margin-left: -3px;
+
+}
+.dadosClassificacao{
+	margin-top: -36px;
+    position: relative;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    max-width: 256px;
+    left: 223px;
+}
+.classBotoesPerfil{
+	
+    position: relative;
+    top: -39px;
+
+}
+.txtRedeAmigos{
+	background: #eeeeee;
+	    padding: 15px 0px 8px;
+    font-size: 25px;
+    color: #317c9e;
+	    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.btnconvidarmesa{
+	
+ background: #317c9e;
+    border: none;
+    padding: 4px 15px;
+    border-radius: 22px;
+    color: #fff;
+    margin-left: 37px;
+    padding-bottom: 11px;
+
+
+}
+.alignrightBtnPerfil{
+	text-align: right;
+}
+.btnplusmail{
+	    background: none;
+    border: 1px solid #7d7d7d;
+    padding: 4px 17px;
+    border-radius: 22px;
+    color: #7d7d7d;
+}
+.alignClassificacao{
+	text-align: right;
+	padding-top: 28px;
+}
+.fotoPerfil{
+	float: left;width: 136PX;margin-left: 20px;    position: relative;
+    top: 16px;
+}
+.dadosUsuarioPerfil{
+	float: left;max-width: 296px;width: 100%;    padding-left: 14px;
+}
+.backClassificacao{
+	
+}
+.sessaoUsuario{
+	   
+}
+.divTabelaDisponibilidade{
+	max-width: 430px;
+    margin: auto;
+	padding-top: 30px;
+}
+#naojogapresencial{
+	display: none;
+	
+    min-height: 335px;
+}
+
+.turno{
+	color: #4688a7;font-size: 16px;
+}
+.tabelaDisponibilidade {
+  border-collapse: collapse;
+}
+.th{
+	color: #5a586e;
+	font-size: 24px;
+    padding: 5px 14px;
+	    font-family: 'gilroyextrabold';
+
+}.td{
+	color: #9590ba;
+	font-size: 18px;
+    padding: 8px 15px;
+	    font-family: 'gilroyextrabold';
+
+}.thEs{
+	color: #5a586e;
+	font-size: 21px;
+    padding: 2px 47px;
+	font-family: 'gilroyextrabold';
+
+}
+.tabelaDisponibilidade, td, th {
+    border: 1px solid #eeeeee;
+    background: #fff;
+}
+.txtbtn{
+	
+    position: relative;
+    top: 3px;
+
+}
+.rotaimagem{
+	
+    padding-top: 56px;
+
+}
+.tabelaDisponibilidade{
+	    box-shadow: 0px 2px 5px 0px #888888;
+    margin-bottom: 49px;
+}
+.tabelaDisponibilidade .turno{
+	font-size: 20px;
+}
+.tabelaDisponibilidade .th{
+	font-size: 30px;
+}.tabelaDisponibilidade .td {
+	font-size: 22px;
+}
+#ch01,#ch02,#ch03,#ch04,#ch05,#ch06,#ch07,#ch08,#ch09,#ch10{
+	display: none;
+}
+.cardPerfil {
+    max-width: 1019px;
+    margin: auto;
+    background: #efefef;
+	border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-radius: 12px;
+	margin-bottom: 76px;
+	    box-shadow: 0px 2px 11px 0px #888888; 	
+}
+.iconPlus {
+	    background: #7d7d7d;
+    color: #efefef;
+    border-radius: 50%;
+    padding: 2px 3px;
+    font-size: 12px;
+}
+.cardImgInternaPerfil {
+    margin-top: -219px;
+    position: relative;
+    max-width: 180px;
+	width: 58%;
+}
+.tdispo{
+	
+    color: #317c9e;
+    margin-top: 16px;
+    margin-bottom: 9px;
+
+
+}
+
+.cardPerfilMenor {
+    min-height: 230px;
+    max-width: 321px;
+    margin: auto;
+    text-align: center;
+    background: #fff;
+    padding-top: 1px;
+	margin-bottom: 9px;
+}
+.card-imgmenor {
+   position: relative;
+    top: 9px;
+    width: 150px;
+    margin: auto;
+    margin-top: -33px;
+}
+.logoCardMenor{
+	
+       width: 99px;
+    margin: auto;
+    margin-top: -17px;
+
+}
+.statusCardPerfil{
+	
+    /* text-align: right; */
+    float: right;
+
+}
+.card-infoMenor{
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+
+.cardMenor {
+         position: relative;
+    width: 100%;    top: -44px;
+}
+.minhasmesas{
+	
+    background: #eeeeee;
+    text-align: center;
+    padding-top: 26px;
+
+}
+.sli2{
+	margin-bottom: -7px;
+}
+#minhassessoesonline{
+	
+    max-width: 340px;
+    margin: auto;
+
+}
+.imgfone{
+	position: relative;
+    top: 68px;
+}
+.btncidades {
+    border: 1px solid #f6f6f6;
+    padding: 3px 0px;
+    border-radius: 22px;
+    color: #7d7d7d;
+    background: #f6f6f6;
+    text-decoration: none;
+    box-shadow: 1px 3px 8px 0px #888888;
+	width: 170px;
+	margin-top: 6px;
+}
+.col20s{
+	width: 20%;
+	float: left;
+	    text-align: center;
+}.col20{
+	width: 18%;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.tituloSessaoPresencial{padding: 10px;
+	background: #fff;border-right: 1px solid #eeee;text-align: center;
+}.tituloSessaoOnline{padding: 10px;
+	background: #fff;text-align: center;
+}
+.rel4{
+	position: relative;
+    top: 4px;
+}
+.minhasPreferenciasTitulo{
+	text-align: center;padding: 7px;border-bottom: 1px solid #d8d8d8;color: #9e9e9e;font-weight: bold;
+}
+#redeJogadores{
+	background: #fff;
+	border-right: 1px solid #d8d8d8;
+}
+.esp50{
+	padding-bottom: 21px;
+}
+.width60{
+	width: 60px;
+}
+.espaco{
+	padding-right: 18px;
+}
+.exemplo1 input[type=radio], .exemplo1 input[type=checkbox]{
+  width: 33px;
+    height: 24px;
+}
+ 
+.exemplo1 input[type=radio] + label, .exemplo1 input[type=checkbox] + label{
+    display:inline-block;
+    height:30px;
+    padding:0 0 0 30px;
+    margin:0 20px 0 0;
+    background-image:url(http://www.webcis.com.br/images/imagens-noticias/checkbox/ico-master.png);
+    background-repeat:no-repeat;
+    background-position:0 0;
+}
+.tabEscolha button.active {
+   
+    color: #805b86;
+    font-weight: bold;
+}
+#perfilUsuarioConvite{
+	display: none;
+}
+.tabEscolha button {
+   display: block;
+    background-color: inherit;
+    color: #a1a1a1;
+    padding: 4px 9px;
+    
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 13px;
+    background: none;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    /* min-height: 37px; */
+    border: 1px solid;
+    max-width: 148px;
+    float: left;
+}
+.tSelecione{
+	
+    font-size: 16px;
+    color: #797979;
+    font-weight: bold;
+
+}
+.radiusInferior{
+	
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+
+}
+ .cardPerfilConvite {
+    max-width: 1037px;
+    margin: auto;
+    background: #efefef;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    margin-bottom: 76px;
+}
+.exemplo1 input[type=checkbox] + label{
+    background-position:0 -60px; /* Muda a posição do background só no checkbox */
+}
+ 
+.exemplo1 input[type=radio]:checked + label{
+    background-position:0 -30px;
+}
+ 
+.exemplo1 input[type=checkbox]:checked + label {
+    background-position:0 -90px;
+}
+.top15{
+	
+    margin-top: 15px;
+
+}
+.selecioneconvidado{
+	
+    background: #efefef;
+    text-align: center;
+    padding: 22px;
+
+}
+.alignright{
+	text-align: right;
+}
+.tconvidarJogador{
+	color: #004b6a;
+    font-size: 18px;
+    margin-bottom: -20px;
+    padding-top: 16px;
+}
+.amigosvertodos{
+	
+    padding-left: 18px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.esp{
+	    padding-left: 9px;
+}
+.btnCancelarPerfil {
+    padding: 7px 26px;
+    background: #d6d8db;
+    border: none;
+    color: #000;
+    border-radius: 4px;
+    /* float: left; */
+    /* margin: 12px 0px 25px; */
+    width: 164px;
+}
+.tabcontentPerfil div{
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	
+}
+.estiloInput100 {
+    width: 100%;
+   
+    background: #eeeeee;
+    border: 1px solid #d8d8d8;
+    padding: 4px;
+    border-radius: 3px;
+}
+.btnEditarSenha{
+	
+    background: #317c9e;
+    border: none;
+    color: #fff;
+    padding: 7px 26px;
+    border-radius: 5px;
+
+}
+#usuario3, #usuario1, #mestre, #usuario4, #usuario5,#usuario6,#usuario7, #usuario8{
+	display: none;
+}
+.backBranco{
+	padding-top: 8px;
+	background: #f4f4f4;
+	
+}
+.tabEditarPerfil{   
+margin-right: 8px;
+    box-shadow: 0px 0px 14px -8px #000;
+    min-height: 201px;
+}
+.tabEditarPerfil button {
+    display: block;
+    color: #000;
+    padding: 10px 28px;
+    width: 100%;
+    float: left;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 14px;
+    background: #ffff;
+    color: #343434;
+    border-bottom: 1px solid #f4f4f4;
+
+}
+.publicacaoIndividual{
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.azulClaro {padding-top: 104px;
+    min-width: 400px;
+    position: relative;
+    top: 0px;
+    background: #dde4e8;
+    min-height: 100%;
+    width: 100%;
+    z-index: 99;
+   
+    padding-bottom: 20px;
+}
+.cardPublicacao {    box-shadow: 0px 4px 11px 0px #888888;
+    max-width: 1037px;
+    margin: auto;
+    background: #eee;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-radius: 12px;
+    margin-bottom: 76px;
+}
+#criarPub{
+	padding:38px 43px;
+}
+.tcriarPub{
+	
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 22px;
+    font-size: 17px;
+
+}
+.checkedMinhasPreferencias{
+	    font-size: 19px!important;
+    text-align: right;
+    float: right;
+    padding-top: 12px;
+    color: #27cb6b;
+	margin-top: -15px;
+    position: relative;
+    top: 4px;
+    left: 5px;
+}
+button:focus{
+	outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
+.activeEditarPerfil, .tabEditarPerfil button:hover {
+  background-color: #504f67!important; 
+  color: #fff!important;
+}
+.cardPerfilC { box-shadow: 0px 4px 11px 0px #888888;
+    max-width: 1000px;
+    margin: auto;
+    background: #fff;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-radius: 12px;
+    margin-bottom: 76px;
+}
+.col2550{
+	float:left;
+	width: 25%;
+}
+.mesasEvento{
+	padding: 6px 1px 1px;
+}
+.avaliacoesCursoOnline{
+	color: #febb00;position: relative; top: 5px
+}
+.tiangulofundobranco {
+    background-image: url(../imagens/fundoTopoBranco.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+       padding-top: 322px;
+    padding-bottom: 28px;
+}
+.tituloCursosOnlineVG {
+    text-align: center;
+    color: #1b5d79;
+    /* font-size: 61px; */
+	    margin-bottom: 24px;
+    margin-top: 44px;
+}
+.pincel{
+	
+       font-size: 19px!important;
+    color: #106089;
+    padding-right: 5px;
+
+}
+.btnSalvarAnotacao{
+	
+    background: #524f67;
+    color: #fff;
+    padding: 6px 55px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+
+}
+.btnVisualisarVideo{
+	    position: relative;
+    top: 6px;
+    padding: 1px 33px;
+    background: none;
+    border: 1px solid #044e6c;
+    color: #044e6c;
+    border-radius: 25px;
+
+}
+.linkPdfV{
+	text-decoration: none!important;
+    color: #bbbbbb;
+}
+.btnFecharlinhaVideo {
+    float: right;
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 1px 7px;
+    color: #9c9c9c!important;
+    position: relative;
+    top: 5px;
+}
+.dNumVi{
+	float: left;position: relative;top: -3px;
+}
+.numFavoVideo{
+	
+    font-size: 22px;
+    position: relative;
+    top: 7px;
+
+}
+#favoritos {
+    padding-top: 38px;
+    padding-bottom: 30px;
+}
+.checkedFav{
+	
+    color: #00c350;
+    font-size: 28px!important;
+    position: relative;
+    top: 5px;
+
+}
+.divLinhaFavorito{
+	    margin-bottom: 13px!important;
+    padding: 0px 11px;
+    background: #f3f3f3;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+        padding-top: 6px;
+    padding-bottom: 16px;
+
+}
+.divAddFav{
+	
+    font-weight: bold;
+    color: #313131;
+    margin-top: 10px;
+
+}
+.aFav{
+	text-decoration: none!important;
+    color: #333333;
+    font-weight: bold;
+    border-bottom: 1px solid #757575;
+
+}
+.estrelaFav{
+	    font-size: 19px!important;
+    color: #106089;
+}
+.borderbot{
+	border-bottom: 1px solid #ababab!important ;
+}
+.btnFecharTabVideo{
+	
+    float: right;
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 1px 7px;
+    color: #9c9c9c;
+
+}
+.txtFavoritosVideo{
+	
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.tabcontentCursoInterno {
+   margin-bottom: 29px;
+    padding: 0px 31px;
+    width: 100%;
+    padding-top: 35px;
+    
+    display: none;
+}
+.tabCursoInterno {
+	
+    background: #515067;
+    width: 100%;
+    height: 56px;
+
+}
+.ActivetabCursoOnline, .ActivetabCursoOnline button:hover {
+  background-color: #106089!important; 
+ 
+}
+.refavista{
+	color: #8e8e8e;
+}
+.tabCursoInterno button {
+	
+    display: block;
+    color: #000;
+    padding: 15px 21px;
+    /* width: 164px; */
+    float: left;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+    background: #515067;
+    color: #fff;
+    border-right: 1px solid #717171;
+}
+
+.cardCursoOnline{
+	
+    margin-top: -197px;
+    margin-bottom: 35px;
+
+}
+.divTitulosFav{
+	
+    float: left;
+    max-width: 64%;
+    width: 100%;
+
+}
+.tituloFavoridoVideo{
+	    /* font-family: 'gilroyextrabold'; */
+    color: #044e6c;
+    font-weight: bold;
+
+}
+.subtituloFavoritoVideo{
+	
+    font-style: italic;
+    font-size: 12px;
+    margin-top: -2px;
+
+}
+.btnComprarCurso{
+	 font-family: 'gilroyextrabold';
+    padding: 8px 70px;
+    background: #1cb54c;
+    border: none;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 23px;
+
+}
+.colComentDuvida{
+	width: 80%;float: left;text-align: justify;
+}
+.linhaPlano{
+	
+    padding: 11px 1px;
+    border-bottom: 1px solid #e2e2e2;
+
+}
+.ColPlano{
+   border: 1px solid #e2e2e2;
+}
+.txtPremium{
+	
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+
+}
+.planoPremium{
+	    background: #504c7c;
+    color: #fff;
+    width: 100%;
+    padding: 32px 13px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+
+}.planoHost{
+	    background: #317c9e;
+    color: #fff;
+    width: 100%;
+    padding: 32px 13px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+
+}
+.experimentePlano{
+	
+    color: #005d7b;
+    font-size: 24px;
+
+}
+.colPlano{
+	    width: 223px;
+    float: left;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+.sombraPlano{
+	
+    box-shadow: 9px 5px 141px -15px #bfbfbf;
+    border-radius: 14px;
+
+}
+.semChecked{
+	
+    padding: 23px;
+
+}
+.beneficiosPlano{
+	
+    color: #005d7b;
+    font-size: 24px;
+	  font-family: 'gilroyextrabold';
+
+}
+.localizarMesaE{
+	    float: right;
+    padding-right: 16px;
+    margin-top: -50px;
+}
+.assinarPremium, .assinarPremium a{
+	    background: #504c7c;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.assinarHost, .assinarHost a{
+	    background: #317c9e;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.precoPlanoPremium{
+	
+    color: #504c7c;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+
+}.precoPlanoHost{
+	
+    color: #317c9e;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+
+}
+.descricaoBeneficios{
+	   padding:16px 4px;
+    text-align: right;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.descricaoBeneficios2{
+	   padding: 0px 4px;
+    text-align: right;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.fontTDuvida{
+	font-size: 18px;
+    color: #004b6a;
+    font-weight: bold;
+}
+.duvidaPostadaAvatar{
+	     width: 70px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 13px;
+}
+.tituloGrandeCursoOnlineInd {
+    font-family: 'gilroyextrabold';
+    font-size: 28px;
+    color: #000;
+    padding-top: 7px;
+}
+.col20responsivo {
+    width: 18%;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.criarMesaEs{
+	background: #317c9e;    color: #fff;    padding: 10px 45px;    border-radius: 7px;
+}
+.BtnMeetingBranco{
+	
+    width: 23px;
+    position: relative;
+    left: -8px;
+    top: -3px;
+
+}
+.precoPlanoCreditos {
+    color: #000;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+}
+.CreditoSassinarPremium, .CreditoSassinarPremium a {
+    background: #504c7c;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+}.CreditoSassinarHost, .CreditoSassinarHost a {
+    background: #317c9e;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 24px;
+}
+.tabelaPremium{
+	
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    margin-bottom: 30px;
+}
+.wVideoPlano{
+	margin: auto;
+	width: 800px;
+	margin-top: -340px;
+}
+.sectionIdeal{
+	    height: 480px;
+	   
+    background: #eee;
+    padding: 20px;
+
+}
+.tituloIdeal {
+    text-align: center;
+    color: #1b5d79;
+    font-size: 30px;
+}
+.inHost{
+	    padding: 10px;
+    background: #eeee;
+	    border: 1px solid #f1f1f1;
+}.desHost{
+	    border: 1px solid #f1f1f1;
+	    padding: 10px;
+        color: #1b5d79;
+    font-weight: bold;
+}
+.tHostTitulo {
+    padding: 10px;
+    text-align: center;
+    background: #1b5d79;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 21px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.tPremiumTitulo {
+    padding: 10px;
+    text-align: center;
+    background: #504c7c;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 21px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.tpremium{
+	padding: 14px;
+	color: #504c7c;
+	text-align: justify;
+}
+.tCreditos{
+	
+    padding: 10px;
+    text-align: center;
+    background: #303030;
+    color: #fff;
+    font-family: 'gilroyextrabold';
+    font-size: 21px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+
+}
+.tabelaCreditos td{
+	text-align: center;
+	padding: 10px;
+	    border: 1px solid #303030;
+
+}
+.tabelaCreditos{
+	
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.btnBuscarMesa {
+	background: #524f67;
+    border: none;
+    color: #fff;
+    padding: 6px 0px;
+    border-radius: 5px;
+    width: 100%;    max-width: 187px;
+}
+.icoSelect {
+    position: absolute;
+    top: 93px;
+    /* left: 171px; */
+	    margin-left: 8px;
+}
+.tempoNoti{
+	    font-size: 10px;
+    color: #909090;
+    padding-top: 4px;
+    font-weight: bold;
+
+}
+.divNotificacoes{
+	background: #fff;border-bottom-left-radius: 14px;border-bottom-right-radius: 14px;
+	box-shadow: 0px 4px 11px 0px #888888
+}
+.btnFecharNotifica{
+	
+    color: #106089;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 2px 5px;
+    font-size: 12px;
+    float: right;
+    margin-right: 18px;
+
+}
+.linhaNotificacao{
+	
+    min-height: 80px;
+
+}
+.width54 {
+    float: left;
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 7px;
+}
+.nomeNotificacaoG {
+    color: #106089;
+    font-family: 'gilroyextrabold';
+    font-size: 16px;
+}
+.textoNotificacaoG {
+	    margin-top: 6px;
+    font-size: 16px;
+    line-height: 13px;
+}
+.divTodasNotificacoes{
+	box-shadow: 0px 4px 11px 0px #888888;
+    background: #eeeeee;
+    padding: 24px;
+    font-size: 25px;
+    color: #327c9e;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+
+}
+.textoNotificacao{
+	
+    font-size: 12px;
+    line-height: 13px;
+
+}
+.nomeNotificacao{
+	
+    color: #106089;
+    font-family: 'gilroyextrabold';
+    font-size: 12px;
+
+}
+.btnVerMais {
+    color: #106089;
+    text-align: center;
+    border-bottom: none;
+    padding-bottom: 0px;
+    padding: 8px;
+    background: #fff;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.triangMenuNotificacao {
+   width: 17px;
+    margin: auto;
+    position: relative;
+    margin-top: -20px;
+    z-index: 0;
+    float: right;
+	    left: -47px;
+}
+.notifIndividual{
+   padding: 16px 10px;
+    /* height: 62px; */
+    border-bottom: 1px solid #cecece;
+
+
+}
+.meetingMenu{
+	
+    width: 17px;
+    position: relative;
+    top: -3px;
+
+}
+.width75{
+	    float: left;
+    width: 37px;
+    margin-right: 10px;
+    margin-left: 7px;
+
+}
+.naoLida{
+	background: #f3f3f3;
+}
+.icoBAvancado{
+	    position: absolute;
+    margin-top: 5px;
+    margin-left: 9px;
+}
+#buscaAvancada{
+	display: none;
+}
+.triangMenuMensagens {
+    width: 17px;
+    margin: auto;
+    position: relative;
+    margin-top: -20px;
+    z-index: 0;
+    float: right;
+    left: -94px;
+}
+#menuNotificacoes {
+	    max-width: 248px;
+    color: #848484;
+    display: none;
+    position: fixed;
+    top: 53px;
+    background: #fff;
+	/* padding: 9px;*/
+    right: 366px;
+    border-radius: 4px;
+    box-shadow: 0px 2px 6px 0px #000000;
+    z-index: 99999;
+	 border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}#menuMensagens {
+	    max-width: 248px;
+    color: #848484;
+    display: none;
+    position: fixed;
+    top: 53px;
+    background: #fff;
+	/* padding: 9px;*/
+    right: 366px;
+    border-radius: 4px;
+    box-shadow: 0px 2px 6px 0px #000000;
+    z-index: 99999;
+	 border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.altura173{
+	    height: 173px;
+}
+.card280{
+	
+    min-height: 280px!important;
+
+}
+.depoimentosCard h4{
+	 font-family: 'gilroyextrabold'!important;
+}
+#minhasmesas {
+    padding: 38px 18px;
+}
+.divBotaoC{
+	
+    padding-right: 37px;
+    padding-top: 0px;
+
+}
+.btnAvaliacoes a, .btnAvaliacoesMarcado a{
+	color: #717171;
+}
+.btnAvaliacoes{
+	    margin-top: 5px;
+    margin-bottom: 5px;
+	    color: #717171;
+    width: 132px;
+    text-align: center;
+    background: #f6f6f6;
+    border-radius: 7px;
+    padding: 1px;
+    border: 1px solid #e2e2e2;
+
+}
+.avaliarNome{
+	float: left;margin-right: 6px;position: relative;top: 2px;
+}
+.divEstrelas{
+	min-height: 27px;padding-left: 23px;
+}
+.btnAvaliacoesMarcado {
+	    color: #717171;
+    width: 132px;
+    text-align: center;
+    background: #f6f6f6;
+    border-radius: 7px;
+    padding: 1px;
+    border: 1px solid #000;
+	    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+#divnaogostou, #estrelaAzul1, #estrelaAzul2, #estrelaAzul3, #estrelaAzul4, #estrelaAzul5{
+	display: none;	
+}
+#divgostou{
+	
+}
+.avaliarE{
+	width: 20px; 
+	float: left;
+}
+.divAvaliarUsuarios{
+	    min-height: 46px;
+    text-align: center;
+    width: 362px;
+    height: 10px;
+    margin: auto;
+
+	
+}
+.avaliarUsuario{
+	       width: 37px;
+    float: left;
+    margin: 4px;
+    
+    border-radius: 50%;
+    padding: 1px;
+}
+.descricaoBeneficiosMobile{
+	 padding:16px 4px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+	display: none;
+		}
+.divFormasPagamento{
+margin-bottom: 46px;padding: 44px;max-width: 1000px;text-align: justify; margin: auto
+}
+.mesaPrincipalPerfil {
+    min-height: 2175px!important;
+    min-width: 400px;
+    position: relative;
+    top: -2px;
+    background: #37393ab3;
+    min-height: 100%;
+    width: 100%;
+    z-index: 99;
+}
+.colStatus{
+	max-width: 500px;margin: auto;padding-top: 22px;
+}
+		.wi33{
+		    width: 33%;
+			float: left;
+		}
+		
+		.div2rodape{
+		
+		}
+		.tituloTermosdeUso{
+		color: #535151; font-family: 'gilroyextrabold'!important;
+		}
+		.divTermosDeuso{
+			
+			   box-shadow: 0px 4px 11px 0px #888888;
+			margin-bottom: 46px;
+			padding: 11px 45px;
+			max-width: 1000px;
+			margin: auto;
+			margin-bottom: 58px;
+			margin-right: 16px;
+			margin-left: 17px;
+			margin: auto;
+
+		}
+	@media screen and (max-width: 800px){
+		#divBusca{
+			width: 100%;
+			}
+			#divBuscaBTN {
+    float: left;
+    width: 35%;
+}
+		.gn-menu li a{
+			    padding: 0px 54px;
+		}
+		.gn-menu-wrapper.gn-open-all, .gn-scroller{
+			    width: 100%!important;
+		}
+		.contact{
+			    text-align: left!important;
+    margin-bottom: 10px;
+	padding-left: 17px!important;
+		}
+		.div2rodape{
+			width: 100%;
+    margin-top: 243px;
+		}
+		.termosEPolitica {
+			max-width: 214px;
+			float: left;
+		}
+		.width323 {
+			max-width: 182px;
+			float: left;
+			 margin-left: 1px;
+			 width: 100%;
+		}
+		.colStatus{
+			max-width: 100%
+		}
+		#section-2{
+			    padding: 30px;
+		}
+		.dRp {
+			max-width: 197px;
+			float: none;
+			line-height: 19px;
+			padding-left: 5px;
+		}
+		.tab button.active:after{
+			display: none;
+		}
+		.tab {
+			float: none;
+			width: 100%;
+			height: 427px;
+			margin-right: 15px;
+			text-align: right;
+		}
+		.menuDireito{
+			display: none;
+		}
+		.sidebarBlog {
+			border: 12px solid #eeeeee;
+			max-width: 280px;
+			float: none;
+			width: 100%;
+			text-align: center;
+			border-radius: 4px;
+			margin: auto;
+		}
+		.descricaoBeneficios, .descricaoBeneficios2, .checkedFav, .semChecked{
+			display: none!important;
+		}
+		.descricaoBeneficiosMobile{
+			display: block;
+		}
+		.alinhamentoBtnCriar{
+	
+			text-align: center;
+			margin-bottom: 21px;
+			margin-top: 11px;
+
+		}
+		.icoSelect {
+			position: absolute;
+			top: auto;
+			margin-top: 7px;
+		}
+		.col20responsivo {
+			    width: 100%;
+				float: none;
+				text-align: center;
+				margin-left: 10px;
+				margin-right: 10px;
+				max-width: 178px;
+				margin: auto;
+				margin-top: 9px;
+				margin-bottom: 9px
+		}
+		.localizarMesaE{
+			float: none!important;
+			padding-right: 1px!important;
+			margin-top: -1px!important;
+		}
+		.colPlano{
+				width: 100%;
+				margin: auto;
+			float: none;
+			margin-right: 7px;
+			margin-left: 7px;
+			margin-top: 30px;
+		}
+		.tituloCursosOnline {
+			
+			font-size: 48px!important;
+		}
+		.localEvento{
+			    width: 148px;
+    float: left;
+
+		}
+		.mesasEvento{
+			display: none;
+		}
+		.aEvent, .dEvent{
+			border-left: none;
+			
+			  border-top: 5px solid #e2e2e2;
+			  margin-top: 18px;
+		}
+		.bEvent, .cEvent{
+			
+			  border-top: 5px solid #e2e2e2;
+			  margin-top: 18px;
+		}
+		.col2550{
+		float:left;
+		width: 50%;
+	}
+		.divBotaoC{
+			    max-width: 175px;
+    margin: auto;
+    margin-bottom: 49px;
+		}
+		.btnCriarPub {
+			
+			float: none;
+			position: relative;
+			top: -1px;
+		}
+		.btnDeletar {
+  
+		padding: 4px 37px;
+    float: none;
+    }
+		.btnCancelarPerfil {
+			padding: 4px 59px;
+			margin-top: 7px;
+			margin-bottom: 7px;
+		}
+		.amigosEdtPerfil {
+			width: 46%;}
+		.divbotoesEd{
+			margin-bottom: 30px;
+			margin-top: 11px;
+			text-align: center;
+			max-width: 211px;
+			margin: auto;
+
+		}
+		.creditosPerfil{
+	  		float: none!important;
+			margin-right: 0px!important;
+			top: 10px;
+			    margin-bottom: 15px;
+		}
+		.dadosEditarPerfil {
+			
+			max-width: 206px;
+		
+		}
+		.editarPerfil {
+			
+			padding-top: 29px;
+		}
+		.btnRemover {
+			
+			padding: 4px 47px;
+			
+			margin-top: 5px;
+			margin-bottom: 25px;
+		}
+		.acen{
+			text-align: center;
+		}
+		.esp50 {
+			
+			padding-top: 71px;
+		}
+		.txtInternoMestreProfissional{
+			padding-top: 71px;
+			padding-bottom: 16px;
+		}
+		.tabperfil button{
+			width: 100%;
+		}
+		.imgPreferencias{
+			
+			text-align: center;
+			padding: 8px;
+
+		}
+		.sessaoUsuario{
+			width: 286px;
+			height: 10px;
+			margin: auto;
+		}
+		.btnplusmail {
+			
+			padding: 4px 0px!important;
+			
+			width: 194px;
+			margin-top: 7px;
+		}
+		.alignrightBtnPerfil{
+			text-align: center;
+		}
+		.backClassificacao{
+			display: none;
+		}
+		.nota{
+			display: none;
+		}
+		.btnconvidarmesa{
+			margin-left: 0px!important;
+		}
+		.dadosClassificacao {
+			    max-width: 300px;
+			left: 0px!important;
+			margin-bottom: 73px;
+			margin-top: 52px;
+			width: 100%;
+		}
+		.estrelasClassificacao{
+			float: none;
+		}
+		.dadosUsuarioPerfil {
+			
+			max-width: 206px;
+			
+			padding-left: 15px;
+			position: relative;
+			top: 0px;
+			margin-top: -15px;
+		}
+		.fotoPerfil {
+			
+			width: 80PX;margin-left: 0px!important;
+		}
+		.col50mestre{
+			float: none;
+			width: 100%;
+		}
+		.dadosComentario{
+	width: 100%;/* float: left; */padding-left: 75px;
+}
+		.backCard{
+			padding-right: 0px!important; 
+		}
+		#idtabJornal{
+		display: none;
+	}
+		.tabJornal {
+			display: none;
+			position: absolute;
+			top: -1313px;
+			z-index: 99;
+		}
+		.menuMobileJornal{
+			display: block;
+			width: 30px;
+			float: right;
+			margin-top: -35px;
+		}
+		.avatarImagemUsuario{
+			display: block!important;
+		}
+		.descricaoUsuario1, .descricaoMestre, .descricaoUsuario4, .descricaoUsuario5, .descricaoUsuario6, .descricaoUsuario7, .descricaoUsuario8{
+			    left: 34px!important;
+		}
+		.descricaoUsuario, .descricaoUsuario1 , .descricaoMestre, .descricaoUsuario4, .descricaoUsuario5, .descricaoUsuario6, .descricaoUsuario7, .descricaoUsuario8{
+			max-width: 310px!important;
+			width: 100%;
+			position: relative!important;
+			padding: 9px 18px 4px 18px!important;
+			 
+			top: 0px!important; 
+			margin: auto;
+			z-index: 2;
+			
+		}
+		.dadosUsuario {
+			max-width: 167px!important;
+			float: left;
+			width: 100%!important;
+		}
+		
+		
+	
+	}
+	.corPremium{
+		 color: #52b8b5;
+	}
+	.colversaoUsuarioPerfil{
+		   
+		border: 1px solid;
+		margin-right: 3px;
+		float: left;
+		width: 47%;
+		
+	}
+	.colversaoUsuario{
+		   
+		border: 1px solid;
+		margin-right: 3px;
+		float: left;
+		width: 47%;
+		
+	}.colversaoUsuarioMestre{
+		    color: #805b86;
+		border: 1px solid;
+		margin-right: 3px;
+		float: left;
+		width: 47%;
+		    border: 1px solid #848484;
+	}
+.btnNao{
+	    background: #bdbdbd;
+    color: #000;
+    border: none;    margin-top: 30px;
+}
+.jogoConfirmado{
+	
+	    padding: 81px;
+}
+#colunaDesejaContinuarNamesa{
+	display: none;
+}
+
+.avatar--bordaMarrom:after {
+  position: absolute;
+  width: 100%;
+  height: 10px;
+  background-color: black;
+  display: block;
+  content: "";
+  top: 50%;
+  left: 50%;
+  
+  transform: rotate(45deg);
+  transform-origin: -10px 40px;
+  
+}
+#colunaConfirmadoComSucesso{
+	display: none;
+}
+ /* avatar.css */
+.avatar--circular {
+   
+}
+.jogoConfirmado{
+	
+    text-align: center;
+    color: #00c350;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.avatar-bordaMarrom {
+    border: 7px solid #7c443b;
+	border-radius: 50%;
+}.avatar-bordaRoxa {
+    border: 7px solid #805b86;
+	border-radius: 50%;
+}
+
+/* infousuario.css */
+.linharodape{
+	transform: rotate(180deg);
+    transform-origin: 246px 333px;
+    z-index: 222;
+    position: relative;
+}
+.fixa33{
+	width: 33.33333333%!important;
+	float: left;
+}
+.infosUsuarioEsquerdaSuperior {
+    text-align: center;
+	position: relative;
+    z-index: 7;
+    top: 39px;
+    left: 22px;
+}.infosUsuarioEsquerdaInferior {
+    text-align: center;
+	position: relative;
+    z-index: 8;
+    top: -52px;
+    left: 27px;
+}
+.infosUsuarioCentroInferior {
+    text-align: center;
+	position: relative;
+    z-index: 6;
+       top: -27px;
+    left: 0px;	
+    
+}.infosUsuarioCentroSuperior {
+    text-align: center;
+	position: relative;
+    z-index: 5;
+    top: 6px;
+    left: 0px;	
+    
+}
+.infosUsuarioDireitaMeio {
+    text-align: center;
+	position: relative;
+    z-index: 3;
+    top: 74px;
+    right: -31px;
+    
+}.infosUsuarioDireitaInferior {
+    text-align: center;
+	position: relative;
+    z-index: 3;
+       top: -47px;
+    right: 26px;
+    
+}.infosUsuarioDireitaSuperior {
+    text-align: center;
+	position: relative;
+    z-index: 3;
+	top: 39px;
+    right: 25px;
+    
+}.infosUsuarioEsquerdaMeio {
+    text-align: center;
+	position: relative;
+    z-index: 5;
+	top: 72px;
+    right: 27px;
+    
+}
+.infosUsuarioDireitaInferior:after, .infosUsuarioCentroInferior:after, .infosUsuarioEsquerdaInferior:after, .infosUsuarioEsquerdaSuperior:after, .infosUsuarioCentroSuperior:after, .infosUsuarioDireitaSuperior:after, .infosUsuarioEsquerdaMeio:after, .infosUsuarioDireitaMeio:after{
+    position: absolute;
+    width: 31px;
+    height: 5px;
+	background: #7c443b;
+    display: block;
+    content: "";
+    top: 31%;
+    left: 36%;
+	
+
+    
+}
+.infosUsuarioEsquerdaMeio:after{
+	transform: rotate(180deg);
+    transform-origin: 43px 17px;
+}.infosUsuarioDireitaMeio:after{
+	transform: rotate(178deg);
+    transform-origin: -8px 16px;
+}.infosUsuarioEsquerdaInferior:after{
+	transform: rotate(-46deg);
+    transform-origin: 30px -55px;
+
+}.infosUsuarioEsquerdaSuperior:after{
+	transform: rotate(50deg);
+	transform-origin:-28px 83px;
+}
+.infosUsuarioCentroInferior:after{
+	transform: rotate(90deg);
+    transform-origin: 30px -4px;
+    background: #7c443b;
+}.infosUsuarioCentroSuperior:after{
+	transform: rotate(90deg);
+    transform-origin: -19px 46px;
+    background: #805b86;
+}
+.infosUsuarioDireitaInferior:after{
+	transform: rotate(50deg);
+    transform-origin: 15px -30px;
+    background: #7c443b;	
+}.infosUsuarioDireitaSuperior:after{
+	    transform: rotate(134deg);
+    transform-origin: -13px 29px;
+    background: #7c443b;	
+}
+    .infosUsuario__avatar {
+        margin-top: 20px;
+    }
+
+    .infosUsuario__nome {
+        color: #747c81;
+        margin: 0;
+        margin-top: 20px;
+    }
+
+    .infosUsuario__label {
+        margin-top: 15px;
+        transition: .3s;
+    }
+
+.redesSociaisMesa{
+	background: #524f67;
+    padding: 12px;
+    margin: 0px -15px;
+    position: relative;
+    top: 111px;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+.dadosUsuario{
+	max-width: 350px; float: left;
+}
+.avatarImagemUsuario{
+			display: none;
+		}
+@media (min-width 900px) and (max-width 70000px){
+		
+		
+	
+	}
+.avatarComentario{
+	
+    width: 50px;
+    margin-bottom: -44px;
+    position: relative;
+    top: 7px;
+    left: 11px;
+
+}
+.textAreaSessao{
+	border-radius: 9px;
+    width: 100%;
+   padding: 16px 63px;
+    border: none;
+	    min-height: 107px;
+
+}
+.orgMesa{
+	border-right: 1px solid;padding: 7px;font-size: 12px;
+}
+.favMesa{
+padding: 7px;
+    font-size: 16px;
+    color: #1d5f7a;
+    text-align: center;
+    font-weight: bold;	
+}
+.titulocardmesa{
+    background: #fff;
+    padding: 13px;
+    box-shadow: 0px 0px 5px #151515;
+    border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+	   
+
+}
+.cardMesa{
+	
+    background: #efefef;
+       border-radius: 7px;
+
+
+}
+.logoHome{
+	width: 100px;float: left;
+	margin-left: 45px;/*aline*/
+}
+li {
+  float: left;
+}
+.gn-menu li a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding:0px 26px;
+  text-decoration: none;
+}
+
+
+
+.active {
+ 
+}
+
+/*Section-Contact*/
+/*footer*/
+footer.row h6 {
+  justify-content: center;
+  text-align: center;
+}
+.imgFavo{
+	position: relative; top: -3px;
+}
+.fecharAlerta{
+	
+    background: #d6d6d6;
+    padding: 0px 5px;
+    border-radius: 50%;
+    color: #000;
+    float: right;
+    position: relative;
+    top: -56px;
+    left: 35px;
+
+}
+.backCard {
+    background-image: url("../imagens/FundoCard.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+	    padding-right: 22px;
+  }
+  .backAvisos {
+	      box-shadow: 0px 4px 11px 0px #888888;
+        background-image: url(../imagens/fundoAvisos.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: auto; */
+    /* padding-right: 22px; */
+    max-width: 387px;
+    padding: 29px;
+    margin: auto;
+        height: 272px;
+    border-radius: 5px;
+    padding-top: 47px;
+  }
+  .tituloCursosOnline{
+	  text-align: center;color: #1b5d79;   
+	  font-size: 61px;
+  }
+/*footer*/
+/***********************************************************************MEDIA
+ HOME PAGE QUERIES**********************************************************************************/
+@media (max-width: 576px) {
+	
+  header {
+    background-image: url("../imagens/header-background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+  } 
+
+  h1 {
+   
+    text-align: center;
+  }
+
+  .header-content {
+    display: block;
+    width: 100%;
+    margin-top: 160px;
+    margin-left: 0px;
+  }
+
+  .sub-text {
+    text-align: center;
+    font-size: 130%;
+    line-height: 1em;
+    padding-top: 40px;
+  }
+
+  .row {
+    display: block; /*felipe antes flex*/
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+  }
+}
+
+/***********************************************************************MEDIA
+ HOME PAGE QUERIES**********************************************************************************/
+/*About-Page*/
+#about-header-title-container {
+  margin-top: 100px;
+}
+
+#about-button-signup {
+  margin-top: 20px;
+  background-color: #514f67;
+  border: 1px solid #514f67;
+  border-radius: 15px;
+}
+
+#about-button-signup-image {
+  width: 30px;
+  height: auto;
+}
+
+/* Values Page*/
+#values-container {
+  display: flex;
+}
+
+.value-title {
+  display: flex;
+  justify-content: center;
+}
+
+/* Values Page*/
+/* Nossa historia*/
+.bx-wrapper {
+  margin: auto;
+}
+
+div#test {
+  display: flex !important;
+}
+
+/* Nossa historia*/
